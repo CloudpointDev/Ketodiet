@@ -1,0 +1,2707 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Pen\n"
+"POT-Creation-Date: 2019-07-24 20:49+0200\n"
+"PO-Revision-Date: 2018-09-12 15:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: htmlpie\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:28
+msgid "It looks like nothing was found at this location, sorry!"
+msgstr ""
+
+#: comments.php:38
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:44
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:56 comments.php:97
+#, php-format
+msgid "Comments Menu - %s"
+msgstr ""
+
+#: comments.php:57 include/content.php:1142 include/content.php:1187
+#: include/content.php:1214 include/content.php:1246 include/customize.php:107
+#: include/customize.php:265 include/customize.php:293
+#: include/customize.php:537 include/customize.php:565
+#: include/customize.php:782 include/customize.php:979
+#: include/customize.php:1102 include/customize.php:1460
+#: include/customize.php:1472 include/customize.php:2814
+#: include/customize.php:2859 include/customize.php:2886
+#: include/customize.php:2918 include/customize.php:2947
+#: include/general.php:1179 include/general.php:1186 include/general.php:1200
+#: include/general.php:1211 include/general.php:1304 include/general.php:1315
+#: include/general.php:1423 include/general.php:1433 include/general.php:1840
+#: include/general.php:1857 include/general.php:1863 include/general.php:1874
+#: include/sidebars.php:47 include/sidebars.php:76 include/sidebars.php:87
+#: include/sidebars.php:103
+msgid "Top"
+msgstr ""
+
+#: comments.php:63 comments.php:104
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:69 comments.php:110
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:74 comments.php:115
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:98 include/content.php:1178 include/content.php:1226
+#: include/content.php:1235 include/content.php:1282 include/customize.php:119
+#: include/customize.php:277 include/customize.php:301
+#: include/customize.php:549 include/customize.php:573
+#: include/customize.php:794 include/customize.php:879
+#: include/customize.php:991 include/customize.php:1114
+#: include/customize.php:1532 include/customize.php:1544
+#: include/customize.php:2850 include/customize.php:2898
+#: include/customize.php:2907 include/customize.php:2959
+#: include/customize.php:3898 include/customize.php:3905
+#: include/general.php:1278 include/general.php:1289 include/general.php:1330
+#: include/general.php:1341 include/general.php:1387 include/general.php:1394
+#: include/general.php:1403 include/general.php:1411 include/general.php:1492
+#: include/general.php:1502 include/general.php:1855 include/general.php:1868
+#: include/general.php:1870 include/general.php:1889 include/sidebars.php:71
+#: include/sidebars.php:80 include/sidebars.php:95 include/sidebars.php:127
+msgid "Bottom"
+msgstr ""
+
+#: comments.php:129
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:68 include/customize.php:3048 include/customize.php:3056
+#: include/html.php:475
+msgid "Footer Menu"
+msgstr ""
+
+#: footer.php:87 header.php:146 include/customize.php:1726
+#: include/customize.php:1738 include/customize.php:3097
+#: include/customize.php:3109 include/customize.php:3693
+msgid "Phone Number"
+msgstr ""
+
+#: footer.php:119 footer.php:122
+msgid "Back to top"
+msgstr ""
+
+#: header.php:32
+msgid "Loading..."
+msgstr ""
+
+#: header.php:45
+msgid "Skip to content"
+msgstr ""
+
+#: include/assets.php:167 include/configure.php:3499 include/content.php:2152
+#: include/customize.php:4104 include/customize.php:4116
+#: include/customize.php:4128 include/customize.php:6401
+#: include/customize.php:6412 include/widgets.php:26
+msgid "Pen"
+msgstr ""
+
+#: include/assets.php:168
+msgid "Please enter some keywords."
+msgstr ""
+
+#: include/assets.php:169
+msgid "Close"
+msgstr ""
+
+#: include/assets.php:170
+msgid "Menu"
+msgstr ""
+
+#: include/assets.php:171
+msgid "Content Settings Overview"
+msgstr ""
+
+#: include/assets.php:172
+msgid "Expand/Collapse"
+msgstr ""
+
+#: include/assets.php:173
+msgid ""
+"This is a part of the Pen theme, so if you switch to another theme this nice "
+"little editing tool will be no longer available."
+msgstr ""
+
+#: include/color.php:39 include/color.php:502
+msgid "HEX color needs to be 6 or 3 digits long"
+msgstr ""
+
+#: include/color.php:124
+msgid "Parameter was not an HSL array"
+msgstr ""
+
+#: include/color.php:195
+msgid "Parameter was not an RGB array"
+msgstr ""
+
+#: include/configure.php:3498
+#, php-format
+msgid "%s Theme"
+msgstr ""
+
+#: include/configure.php:3503
+#, php-format
+msgid "Unknown Setting: %s"
+msgstr ""
+
+#: include/content.php:233 include/plugins/woocommerce.php:208
+#: partials/content.php:59
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: include/content.php:289
+msgid ""
+"If you switch to another theme these settings will be no longer used. The "
+"rest of the settings that are here are either parts of the WordPress core or "
+"added via plugins and they will be available with or without this theme."
+msgstr ""
+
+#: include/content.php:296
+msgid ""
+"The following options would only apply to this post. If you want to apply "
+"them to all your posts you should go to Appearance &rarr; Customize &rarr; "
+"Content."
+msgstr ""
+
+#: include/content.php:309 include/customize.php:744 include/html.php:1052
+msgid "Full Content View"
+msgstr ""
+
+#: include/content.php:319
+msgid "Style"
+msgstr ""
+
+#: include/content.php:326 include/general.php:1702
+msgid "Color Scheme"
+msgstr ""
+
+#: include/content.php:331 include/content.php:344 include/content.php:355
+#: include/content.php:368 include/content.php:400 include/content.php:423
+#: include/content.php:437 include/content.php:454 include/content.php:468
+#: include/content.php:487 include/content.php:509 include/content.php:538
+#: include/content.php:561 include/content.php:583 include/content.php:610
+#: include/content.php:627 include/content.php:640 include/content.php:657
+#: include/content.php:689 include/content.php:711 include/content.php:733
+#: include/content.php:755 include/content.php:777 include/content.php:805
+#: include/content.php:827 include/content.php:853 include/content.php:875
+#: include/content.php:897 include/content.php:927 include/content.php:949
+#: include/content.php:971 include/content.php:1006 include/content.php:1024
+#: include/content.php:1042 include/content.php:1066 include/content.php:1085
+#: include/content.php:1328 include/content.php:1351 include/content.php:1365
+#: include/content.php:1382 include/content.php:1396 include/content.php:1415
+#: include/content.php:1437 include/content.php:1451 include/content.php:1491
+#: include/content.php:1513 include/content.php:1538 include/content.php:1555
+#: include/content.php:1568 include/content.php:1585 include/content.php:1617
+#: include/content.php:1639 include/content.php:1663 include/content.php:1685
+#: include/content.php:1711 include/content.php:1733 include/content.php:1755
+#: include/content.php:1777 include/content.php:1801 include/content.php:1827
+#: include/content.php:1853 include/content.php:1890 include/content.php:1908
+#: include/content.php:1930 include/customize.php:1196
+#: include/customize.php:1204 include/customize.php:4272
+#: include/customize.php:4324
+msgid "Default"
+msgstr ""
+
+#: include/content.php:334 include/content.php:342 include/content.php:358
+#: include/content.php:366 include/content.php:1454 include/content.php:1462
+#: include/customize.php:1916 include/customize.php:1927
+#: include/customize.php:1938 include/customize.php:1949
+#: include/customize.php:2086 include/customize.php:3071
+#: include/general.php:907
+#, php-format
+msgid "Style %d"
+msgstr ""
+
+#: include/content.php:350 include/customize.php:1213 include/general.php:959
+#: include/general.php:1000 include/general.php:1037 include/general.php:1536
+msgid "Typography"
+msgstr ""
+
+#: include/content.php:381 include/content.php:413 include/content.php:635
+#: include/content.php:651 include/content.php:1305 include/content.php:1341
+msgid "Featured Image"
+msgstr ""
+
+#: include/content.php:391 include/content.php:1319
+msgid "Content Title Background"
+msgstr ""
+
+#: include/content.php:393 include/content.php:403 include/content.php:416
+#: include/content.php:426 include/content.php:447 include/content.php:457
+#: include/content.php:480 include/content.php:490 include/content.php:554
+#: include/content.php:564 include/content.php:576 include/content.php:586
+#: include/content.php:682 include/content.php:692 include/content.php:704
+#: include/content.php:714 include/content.php:726 include/content.php:736
+#: include/content.php:748 include/content.php:758 include/content.php:770
+#: include/content.php:780 include/content.php:798 include/content.php:808
+#: include/content.php:820 include/content.php:830 include/content.php:846
+#: include/content.php:856 include/content.php:868 include/content.php:878
+#: include/content.php:890 include/content.php:900 include/content.php:920
+#: include/content.php:930 include/content.php:942 include/content.php:952
+#: include/content.php:964 include/content.php:974 include/content.php:1321
+#: include/content.php:1331 include/content.php:1344 include/content.php:1354
+#: include/content.php:1375 include/content.php:1385 include/content.php:1408
+#: include/content.php:1418 include/content.php:1484 include/content.php:1494
+#: include/content.php:1506 include/content.php:1516 include/content.php:1610
+#: include/content.php:1620 include/content.php:1632 include/content.php:1642
+#: include/content.php:1656 include/content.php:1666 include/content.php:1678
+#: include/content.php:1688 include/content.php:1704 include/content.php:1714
+#: include/content.php:1726 include/content.php:1736 include/content.php:1748
+#: include/content.php:1758 include/content.php:1770 include/content.php:1780
+#: include/content.php:1794 include/content.php:1804 include/content.php:1820
+#: include/content.php:1830 include/content.php:1846 include/content.php:1856
+#: include/html.php:1034 include/html.php:1076
+msgid "Yes"
+msgstr ""
+
+#: include/content.php:395 include/content.php:404 include/content.php:418
+#: include/content.php:427 include/content.php:449 include/content.php:458
+#: include/content.php:482 include/content.php:491 include/content.php:556
+#: include/content.php:565 include/content.php:578 include/content.php:587
+#: include/content.php:684 include/content.php:693 include/content.php:706
+#: include/content.php:715 include/content.php:728 include/content.php:737
+#: include/content.php:750 include/content.php:759 include/content.php:772
+#: include/content.php:781 include/content.php:800 include/content.php:809
+#: include/content.php:822 include/content.php:831 include/content.php:848
+#: include/content.php:857 include/content.php:870 include/content.php:879
+#: include/content.php:892 include/content.php:901 include/content.php:922
+#: include/content.php:931 include/content.php:944 include/content.php:953
+#: include/content.php:966 include/content.php:975 include/content.php:1323
+#: include/content.php:1332 include/content.php:1346 include/content.php:1355
+#: include/content.php:1377 include/content.php:1386 include/content.php:1410
+#: include/content.php:1419 include/content.php:1486 include/content.php:1495
+#: include/content.php:1508 include/content.php:1517 include/content.php:1612
+#: include/content.php:1621 include/content.php:1634 include/content.php:1643
+#: include/content.php:1658 include/content.php:1667 include/content.php:1680
+#: include/content.php:1689 include/content.php:1706 include/content.php:1715
+#: include/content.php:1728 include/content.php:1737 include/content.php:1750
+#: include/content.php:1759 include/content.php:1772 include/content.php:1781
+#: include/content.php:1796 include/content.php:1805 include/content.php:1822
+#: include/content.php:1831 include/content.php:1848 include/content.php:1857
+#: include/html.php:1036 include/html.php:1078
+msgid "No"
+msgstr ""
+
+#: include/content.php:412 include/content.php:678 include/content.php:700
+#: include/content.php:722 include/content.php:744 include/content.php:766
+#: include/content.php:790 include/content.php:816 include/content.php:838
+#: include/content.php:864 include/content.php:886 include/content.php:912
+#: include/content.php:938 include/content.php:960 include/content.php:1340
+#: include/content.php:1606 include/content.php:1628 include/content.php:1652
+#: include/content.php:1674 include/content.php:1696 include/content.php:1722
+#: include/content.php:1744 include/content.php:1766 include/content.php:1790
+#: include/content.php:1812 include/content.php:1838 include/customize.php:1634
+#: include/customize.php:1662 include/customize.php:1686
+#: include/customize.php:1763 include/customize.php:1832
+#: include/customize.php:1888 include/customize.php:1896
+#: include/customize.php:2124 include/customize.php:2152
+#: include/customize.php:2160 include/customize.php:2180
+#: include/customize.php:2216 include/customize.php:2237
+#: include/customize.php:2245 include/customize.php:2253
+#: include/customize.php:2310 include/customize.php:2318
+#: include/customize.php:2329 include/customize.php:2341
+#: include/customize.php:2357 include/customize.php:2439
+#: include/customize.php:2455 include/customize.php:2471
+#: include/customize.php:2491 include/customize.php:2527
+#: include/customize.php:2547 include/customize.php:2555
+#: include/customize.php:2563 include/customize.php:2616
+#: include/customize.php:2641 include/customize.php:2653
+#: include/customize.php:3002 include/customize.php:3039
+#: include/customize.php:3118 include/customize.php:3133
+#: include/customize.php:3953 include/customize.php:4011
+#: include/customize.php:4096 include/general.php:1707 include/general.php:1712
+#: include/general.php:1717
+#, php-format
+msgctxt "verb"
+msgid "Display %s"
+msgstr ""
+
+#: include/content.php:432 include/content.php:1360
+msgid "Featured Image Size"
+msgstr ""
+
+#: include/content.php:445 include/content.php:1373
+msgid "Rotate"
+msgstr ""
+
+#: include/content.php:463 include/content.php:1391
+msgid "Alignment"
+msgstr ""
+
+#: include/content.php:471 include/content.php:1154 include/content.php:1195
+#: include/content.php:1258 include/content.php:1399 include/customize.php:1484
+#: include/customize.php:1496 include/customize.php:1714
+#: include/customize.php:1997 include/customize.php:2292
+#: include/customize.php:2591 include/customize.php:2734
+#: include/customize.php:2826 include/customize.php:2867
+#: include/customize.php:2930 include/customize.php:3014
+#: include/general.php:1226 include/general.php:1237 include/general.php:1353
+#: include/general.php:1360 include/general.php:1446 include/general.php:1456
+#: include/general.php:1845 include/general.php:1858 include/general.php:1879
+#: include/sidebars.php:55 include/sidebars.php:111
+msgid "Left"
+msgstr ""
+
+#: include/content.php:472 include/content.php:1400 include/customize.php:1715
+#: include/customize.php:1998 include/customize.php:2293
+#: include/customize.php:2592 include/customize.php:2735
+#: include/customize.php:3015
+msgid "Center"
+msgstr ""
+
+#: include/content.php:473 include/content.php:1166 include/content.php:1203
+#: include/content.php:1270 include/content.php:1401 include/customize.php:1508
+#: include/customize.php:1520 include/customize.php:1716
+#: include/customize.php:1999 include/customize.php:2294
+#: include/customize.php:2593 include/customize.php:2736
+#: include/customize.php:2838 include/customize.php:2875
+#: include/customize.php:2942 include/customize.php:3016
+#: include/general.php:1252 include/general.php:1263 include/general.php:1371
+#: include/general.php:1378 include/general.php:1469 include/general.php:1479
+#: include/general.php:1850 include/general.php:1859 include/general.php:1884
+#: include/sidebars.php:63 include/sidebars.php:119
+msgid "Right"
+msgstr ""
+
+#: include/content.php:478 include/content.php:1406
+msgid "Add Frame"
+msgstr ""
+
+#: include/content.php:498 include/content.php:1426 include/customize.php:61
+#: include/customize.php:86 include/customize.php:176 include/customize.php:188
+#: include/customize.php:204 include/customize.php:220
+#: include/customize.php:236 include/customize.php:252
+#: include/customize.php:418 include/customize.php:430
+#: include/customize.php:446 include/customize.php:588
+#: include/customize.php:596 include/customize.php:612
+#: include/customize.php:677 include/customize.php:697
+#: include/customize.php:721 include/customize.php:757
+#: include/customize.php:916 include/customize.php:924
+#: include/customize.php:940 include/customize.php:952
+#: include/customize.php:961 include/customize.php:1047
+#: include/customize.php:1055 include/customize.php:1071
+#: include/customize.php:1138 include/general.php:1681 include/general.php:1799
+#, php-format
+msgid "%s Color"
+msgstr ""
+
+#: include/content.php:499 include/content.php:1427
+msgctxt "noun"
+msgid "Frame"
+msgstr ""
+
+#: include/content.php:502 include/content.php:512 include/content.php:1430
+#: include/content.php:1440 include/customize.php:750 include/customize.php:842
+#: include/html.php:1021 include/html.php:1063 include/widgets.php:71
+msgid "Dark"
+msgstr ""
+
+#: include/content.php:504 include/content.php:513 include/content.php:1432
+#: include/content.php:1441 include/customize.php:749 include/customize.php:841
+#: include/html.php:1023 include/html.php:1065 include/widgets.php:72
+msgid "Light"
+msgstr ""
+
+#: include/content.php:523 include/content.php:1471 include/customize.php:2040
+#: include/general.php:963 include/general.php:1089 include/general.php:1130
+msgid "Layout"
+msgstr ""
+
+#: include/content.php:530 include/customize.php:2713
+#: include/customize.php:2719
+msgid "Site Layout"
+msgstr ""
+
+#: include/content.php:541 include/customize.php:2721
+msgid "Standard"
+msgstr ""
+
+#: include/content.php:542 include/customize.php:2722
+msgid "Wide"
+msgstr ""
+
+#: include/content.php:543 include/customize.php:2723
+msgid "Boxed"
+msgstr ""
+
+#: include/content.php:550 include/content.php:572 include/content.php:1480
+#: include/content.php:1502 include/customize.php:2132
+#: include/customize.php:2140 include/customize.php:2447
+#: include/customize.php:2463 include/general.php:1589 include/general.php:1595
+#: include/general.php:1722 include/general.php:1727
+#, php-format
+msgid "Center-align %s"
+msgstr ""
+
+#: include/content.php:551 include/content.php:745 include/content.php:1009
+#: include/content.php:1027 include/content.php:1045 include/content.php:1069
+#: include/content.php:1481 include/content.php:1607 include/content.php:1893
+#: include/content.php:1911 include/content.php:1933 include/customize.php:2125
+#: include/customize.php:2133 include/customize.php:2172
+#: include/customize.php:2208 include/customize.php:2229
+#: include/customize.php:2440 include/customize.php:2448
+#: include/customize.php:2483 include/customize.php:2519
+#: include/customize.php:2539 include/customize.php:2632
+#: include/general.php:1590 include/general.php:1621 include/general.php:1723
+#: include/general.php:1753
+msgid "Content Header"
+msgstr ""
+
+#: include/content.php:573 include/content.php:767 include/content.php:1503
+#: include/content.php:1629 include/customize.php:639 include/customize.php:651
+#: include/customize.php:670 include/customize.php:681
+#: include/customize.php:690 include/customize.php:701
+#: include/customize.php:712 include/customize.php:1252
+#: include/customize.php:1264 include/customize.php:1276
+#: include/customize.php:1288 include/customize.php:2472
+#: include/customize.php:3887 include/general.php:1596 include/general.php:1598
+#: include/general.php:1728 include/general.php:1730
+msgid "Content Title"
+msgstr ""
+
+#: include/content.php:598 include/content.php:1526
+msgid "Animation"
+msgstr ""
+
+#: include/content.php:605 include/content.php:621 include/content.php:1089
+#: include/customize.php:1845 include/customize.php:2424
+#: include/customize.php:2432 include/customize.php:2731
+#: include/general.php:1070 include/general.php:1078 include/general.php:1083
+#: include/general.php:1734 include/general.php:1742
+msgid "Content Area"
+msgstr ""
+
+#: include/content.php:620 include/content.php:650 include/content.php:1548
+#: include/content.php:1578 include/general.php:1606 include/general.php:1632
+#: include/general.php:1738 include/general.php:1814
+#, php-format
+msgid "%s Delay"
+msgstr ""
+
+#: include/content.php:628 include/content.php:658 include/content.php:1458
+#: include/content.php:1556 include/content.php:1586 include/customize.php:73
+#: include/customize.php:1912 include/customize.php:1923
+#: include/customize.php:1934 include/customize.php:1945
+#: include/customize.php:1960 include/customize.php:2069
+#: include/customize.php:2082 include/customize.php:2110
+#: include/customize.php:2302 include/customize.php:2600
+#: include/customize.php:3067 include/customize.php:4132
+#: include/general.php:679 include/general.php:738 include/widgets.php:65
+msgid "None"
+msgstr ""
+
+#: include/content.php:669 include/content.php:1597
+msgid "Visibility"
+msgstr ""
+
+#: include/content.php:679 include/content.php:1088 include/customize.php:1635
+#: include/general.php:1708
+msgid "Site Header"
+msgstr ""
+
+#: include/content.php:701 include/customize.php:3003 include/general.php:1713
+msgid "Site Footer"
+msgstr ""
+
+#: include/content.php:723 include/general.php:1718
+msgid "Main Navigation"
+msgstr ""
+
+#: include/content.php:793 include/content.php:998 include/content.php:1882
+#: include/customize.php:700 include/customize.php:711
+#: include/customize.php:3121 include/customize.php:3623
+#: include/customize.php:3659 include/general.php:1659
+#, php-format
+msgid "%s Link"
+msgstr ""
+
+#: include/content.php:794 include/content.php:999 include/content.php:1883
+msgid "Author"
+msgstr ""
+
+#: include/content.php:817 include/content.php:1018 include/content.php:1675
+#: include/content.php:1902 include/customize.php:2205
+#: include/customize.php:2217 include/customize.php:2516
+#: include/customize.php:2528 include/general.php:1614 include/general.php:1618
+#: include/general.php:1746 include/general.php:1750
+msgid "Content Date"
+msgstr ""
+
+#: include/content.php:841 include/content.php:1699 include/content.php:1922
+#: include/customize.php:449 include/customize.php:460
+#: include/customize.php:1141 include/customize.php:1152
+#: include/general.php:1641 include/general.php:1649 include/general.php:1777
+#: include/general.php:1785
+#, php-format
+msgid "%s Links"
+msgstr ""
+
+#: include/content.php:842 include/content.php:1700 include/content.php:1923
+#: include/general.php:1642 include/general.php:1650 include/general.php:1778
+#: include/general.php:1786
+msgid "Category"
+msgstr ""
+
+#: include/content.php:865 include/content.php:1745 include/customize.php:2189
+#: include/customize.php:2197 include/customize.php:2319
+#: include/customize.php:2330 include/customize.php:2500
+#: include/customize.php:2508 include/customize.php:2654
+#: include/general.php:1653 include/general.php:1755
+msgid "Author Profile"
+msgstr ""
+
+#: include/content.php:887 include/content.php:1767 include/customize.php:2617
+#: include/general.php:1623 include/general.php:1754
+msgid "Content Tags"
+msgstr ""
+
+#: include/content.php:915 include/content.php:1058 include/customize.php:2344
+#: include/customize.php:2360 include/customize.php:2373
+#: include/customize.php:2385 include/customize.php:2627
+#: include/customize.php:2644 include/general.php:1668 include/general.php:1763
+#: include/general.php:1771
+#, php-format
+msgid "%s Buttons"
+msgstr ""
+
+#: include/content.php:916 include/content.php:1059 include/customize.php:2628
+#: include/customize.php:2645 include/general.php:1669 include/general.php:1764
+#: include/general.php:1772
+msgctxt "noun"
+msgid "Share"
+msgstr ""
+
+#: include/content.php:939 include/content.php:1010 include/content.php:1028
+#: include/content.php:1046 include/content.php:1071 include/content.php:1791
+#: include/content.php:1894 include/content.php:1912 include/content.php:1934
+#: include/customize.php:2153 include/customize.php:2173
+#: include/customize.php:2209 include/customize.php:2230
+#: include/customize.php:2456 include/customize.php:2484
+#: include/customize.php:2520 include/customize.php:2540
+#: include/customize.php:2634 include/general.php:1620 include/general.php:1752
+msgid "Content Footer"
+msgstr ""
+
+#: include/content.php:961 include/content.php:1079 include/customize.php:1833
+#: include/customize.php:1841 include/customize.php:1855
+#: include/customize.php:1867 include/general.php:1789 include/general.php:1793
+msgid "Search box"
+msgstr ""
+
+#: include/content.php:984 include/content.php:1869
+msgid "Location"
+msgstr ""
+
+#: include/content.php:995 include/content.php:1017 include/content.php:1035
+#: include/content.php:1055 include/content.php:1078 include/content.php:1879
+#: include/content.php:1901 include/content.php:1919 include/customize.php:1840
+#: include/customize.php:2168 include/customize.php:2204
+#: include/customize.php:2224 include/customize.php:2479
+#: include/customize.php:2515 include/customize.php:2535
+#: include/customize.php:2624 include/general.php:1617 include/general.php:1646
+#: include/general.php:1656 include/general.php:1665 include/general.php:1749
+#: include/general.php:1758 include/general.php:1768 include/general.php:1782
+#: include/general.php:1792
+#, php-format
+msgid "%s Location"
+msgstr ""
+
+#: include/content.php:1036
+msgid "Categories"
+msgstr ""
+
+#: include/content.php:1070 include/content.php:1213 include/content.php:1225
+#: include/customize.php:628 include/customize.php:743
+#: include/customize.php:835 include/customize.php:2024
+#: include/customize.php:2633 include/customize.php:2885
+#: include/customize.php:2897 include/customize.php:3880
+#: include/general.php:1303 include/general.php:1314 include/general.php:1329
+#: include/general.php:1340 include/general.php:1602 include/general.php:1610
+#: include/general.php:1862 include/general.php:1867 include/html.php:980
+#: include/sidebars.php:86 include/sidebars.php:94
+msgid "Content"
+msgstr ""
+
+#: include/content.php:1099 include/customize.php:1452
+msgid "Sidebars"
+msgstr ""
+
+#: include/content.php:1107
+msgid "You can control the visibility of your sidebars for this specific post."
+msgstr ""
+
+#: include/content.php:1114 include/content.php:1126 include/content.php:1138
+#: include/content.php:1150 include/content.php:1162 include/content.php:1174
+#: include/content.php:1186 include/content.php:1194 include/content.php:1202
+#: include/content.php:1210 include/content.php:1222 include/content.php:1234
+#: include/content.php:1242 include/content.php:1254 include/content.php:1266
+#: include/content.php:1278 include/customize.php:2786
+#: include/customize.php:2798 include/customize.php:2810
+#: include/customize.php:2822 include/customize.php:2834
+#: include/customize.php:2846 include/customize.php:2858
+#: include/customize.php:2866 include/customize.php:2874
+#: include/customize.php:2882 include/customize.php:2894
+#: include/customize.php:2906 include/customize.php:2914
+#: include/customize.php:2926 include/customize.php:2938
+#: include/customize.php:2955
+#, php-format
+msgid "Hide the \"%s\" widget area"
+msgstr ""
+
+#: include/content.php:1117 include/content.php:1129 include/customize.php:142
+#: include/customize.php:1317 include/customize.php:1397
+#: include/customize.php:1614 include/customize.php:1643
+#: include/customize.php:1651 include/customize.php:1711
+#: include/customize.php:1728 include/customize.php:1740
+#: include/customize.php:1844 include/customize.php:1857
+#: include/customize.php:1869 include/customize.php:2789
+#: include/customize.php:2801 include/customize.php:3238
+#: include/customize.php:3274 include/customize.php:3310
+#: include/customize.php:3346 include/customize.php:3382
+#: include/customize.php:3418 include/customize.php:3454
+#: include/customize.php:3490 include/customize.php:3526
+#: include/customize.php:3562 include/customize.php:3598
+#: include/customize.php:3634 include/customize.php:3670
+#: include/customize.php:3701 include/customize.php:3737
+#: include/customize.php:3773 include/customize.php:3826
+#: include/customize.php:3960 include/customize.php:3976
+#: include/customize.php:3992 include/general.php:71 include/general.php:974
+#: include/general.php:982 include/general.php:987 include/general.php:994
+#: include/general.php:999 include/general.php:1139 include/general.php:1147
+#: include/general.php:1159 include/general.php:1167 include/general.php:1829
+#: include/general.php:1834 include/sidebars.php:30 include/sidebars.php:38
+msgid "Header"
+msgstr ""
+
+#: include/content.php:1118 include/customize.php:152 include/customize.php:321
+#: include/customize.php:361 include/customize.php:390
+#: include/customize.php:508 include/customize.php:641
+#: include/customize.php:854 include/customize.php:892
+#: include/customize.php:1023 include/customize.php:1163
+#: include/customize.php:2790 include/general.php:1140 include/general.php:1148
+#: include/general.php:1830 include/sidebars.php:31
+msgid "Primary"
+msgstr ""
+
+#: include/content.php:1130 include/customize.php:160 include/customize.php:333
+#: include/customize.php:369 include/customize.php:402
+#: include/customize.php:516 include/customize.php:653
+#: include/customize.php:867 include/customize.php:900
+#: include/customize.php:1031 include/customize.php:1171
+#: include/customize.php:2802 include/general.php:1160 include/general.php:1168
+#: include/general.php:1835 include/sidebars.php:39
+msgid "Secondary"
+msgstr ""
+
+#: include/content.php:1141 include/content.php:1153 include/content.php:1165
+#: include/content.php:1177 include/customize.php:1824
+#: include/customize.php:2813 include/customize.php:2825
+#: include/customize.php:2837 include/customize.php:2849
+#: include/general.php:991 include/general.php:1052 include/general.php:1199
+#: include/general.php:1210 include/general.php:1225 include/general.php:1236
+#: include/general.php:1251 include/general.php:1262 include/general.php:1277
+#: include/general.php:1288 include/general.php:1839 include/general.php:1844
+#: include/general.php:1849 include/general.php:1854 include/sidebars.php:46
+#: include/sidebars.php:54 include/sidebars.php:62 include/sidebars.php:70
+msgid "Search"
+msgstr ""
+
+#: include/content.php:1245 include/content.php:1257 include/content.php:1269
+#: include/content.php:1281 include/customize.php:1010
+#: include/customize.php:1560 include/customize.php:1589
+#: include/customize.php:2326 include/customize.php:2338
+#: include/customize.php:2354 include/customize.php:2917
+#: include/customize.php:2929 include/customize.php:2941
+#: include/customize.php:2946 include/customize.php:2958
+#: include/customize.php:2985 include/customize.php:3011
+#: include/customize.php:3024 include/customize.php:3032
+#: include/customize.php:3099 include/customize.php:3111
+#: include/customize.php:3247 include/customize.php:3283
+#: include/customize.php:3319 include/customize.php:3355
+#: include/customize.php:3391 include/customize.php:3427
+#: include/customize.php:3463 include/customize.php:3499
+#: include/customize.php:3535 include/customize.php:3571
+#: include/customize.php:3607 include/customize.php:3643
+#: include/customize.php:3679 include/customize.php:3710
+#: include/customize.php:3746 include/customize.php:3782
+#: include/customize.php:3912 include/customize.php:3919 include/general.php:72
+#: include/general.php:1422 include/general.php:1432 include/general.php:1445
+#: include/general.php:1455 include/general.php:1468 include/general.php:1478
+#: include/general.php:1491 include/general.php:1501 include/general.php:1512
+#: include/general.php:1520 include/general.php:1525 include/general.php:1530
+#: include/general.php:1535 include/general.php:1873 include/general.php:1878
+#: include/general.php:1883 include/general.php:1888 include/sidebars.php:102
+#: include/sidebars.php:110 include/sidebars.php:118 include/sidebars.php:126
+msgid "Footer"
+msgstr ""
+
+#: include/content.php:1295
+msgid ""
+"Such as category listing pages, blog pages, search results, archive, etc."
+msgstr ""
+
+#: include/content.php:1297 include/general.php:1119
+msgid "List View"
+msgstr ""
+
+#: include/content.php:1312
+msgid ""
+"All the image settings below would only apply to the \"Plain list"
+"\" (classic) layout (Customize &rarr; Content &rarr; Layout), except for the "
+"\"Display featured image\" setting which applies to both."
+msgstr ""
+
+#: include/content.php:1446 include/general.php:1687
+msgid "Thumbnail Style"
+msgstr ""
+
+#: include/content.php:1533 include/content.php:1549
+msgctxt "noun"
+msgid "List Item"
+msgstr ""
+
+#: include/content.php:1563 include/content.php:1579 include/general.php:1627
+#: include/general.php:1636 include/general.php:1673 include/general.php:1677
+#: include/general.php:1796 include/general.php:1805 include/general.php:1810
+#: include/general.php:1818
+msgid "Thumbnail"
+msgstr ""
+
+#: include/content.php:1653 include/general.php:1759
+msgid "Author Link"
+msgstr ""
+
+#: include/content.php:1723 include/general.php:1622
+msgid "Content Summary"
+msgstr ""
+
+#: include/content.php:1815 include/content.php:1841 include/customize.php:318
+#: include/customize.php:330 include/customize.php:1766
+#: include/customize.php:1799 include/customize.php:1811
+#: include/customize.php:3956 include/customize.php:3972
+#: include/customize.php:3988 include/general.php:1690 include/general.php:1695
+#, php-format
+msgid "%s Button"
+msgstr ""
+
+#: include/content.php:1816 include/customize.php:2345 include/general.php:1691
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: include/content.php:1842
+msgid "Content Edit"
+msgstr ""
+
+#: include/content.php:1955
+msgid "Request new features and get them in a week!"
+msgstr ""
+
+#: include/content.php:1957
+msgid "Order new features! (free of charge)"
+msgstr ""
+
+#: include/content.php:2129
+msgid "Options"
+msgstr ""
+
+#: include/content.php:2153
+msgid "Please select an item."
+msgstr ""
+
+#: include/content.php:2157
+#, php-format
+msgctxt "verb"
+msgid "Toggle Panel: %s"
+msgstr ""
+
+#: include/content.php:2158
+msgid "Pen Options"
+msgstr ""
+
+#: include/customize.php:28 include/general.php:958 include/general.php:995
+#: include/general.php:1032 include/general.php:1063 include/general.php:1084
+#: include/general.php:1125 include/general.php:1405 include/general.php:1531
+#: include/general.php:1562
+msgid "Colors"
+msgstr ""
+
+#: include/customize.php:34 include/customize.php:45 include/customize.php:1225
+#: include/customize.php:1626 include/general.php:950 include/general.php:978
+#: include/general.php:1016 include/general.php:1048 include/general.php:1074
+#: include/general.php:1115 include/general.php:1516 include/general.php:1552
+msgid "General"
+msgstr ""
+
+#: include/customize.php:51
+msgid "Shadows"
+msgstr ""
+
+#: include/customize.php:55
+msgid "Shadow display"
+msgstr ""
+
+#: include/customize.php:64 include/customize.php:104 include/customize.php:116
+#: include/customize.php:262 include/customize.php:274
+#: include/customize.php:387 include/customize.php:399
+#: include/customize.php:534 include/customize.php:546
+#: include/customize.php:638 include/customize.php:650
+#: include/customize.php:779 include/customize.php:791
+#: include/customize.php:851 include/customize.php:864
+#: include/customize.php:976 include/customize.php:988
+#: include/customize.php:1099 include/customize.php:1111
+#, php-format
+msgid "%s Background"
+msgstr ""
+
+#: include/customize.php:65 include/customize.php:3814 include/general.php:955
+#: include/general.php:962 include/general.php:1004 include/general.php:1088
+#: include/general.php:1129 include/general.php:1540
+msgid "Site"
+msgstr ""
+
+#: include/customize.php:71
+msgid "Site Background Effect"
+msgstr ""
+
+#: include/customize.php:74
+msgid "Trianglify"
+msgstr ""
+
+#: include/customize.php:75
+msgid "Shards"
+msgstr ""
+
+#: include/customize.php:80 include/customize.php:253 include/customize.php:589
+#: include/customize.php:758 include/customize.php:917
+#: include/customize.php:1048
+msgid "Text"
+msgstr ""
+
+#: include/customize.php:87 include/customize.php:94 include/customize.php:237
+#: include/customize.php:244 include/customize.php:431
+#: include/customize.php:438 include/customize.php:597
+#: include/customize.php:604 include/customize.php:763
+#: include/customize.php:769 include/customize.php:925
+#: include/customize.php:932 include/customize.php:1056
+#: include/customize.php:1063
+msgid "Links"
+msgstr ""
+
+#: include/customize.php:95 include/customize.php:197 include/customize.php:213
+#: include/customize.php:229 include/customize.php:245
+#: include/customize.php:439 include/customize.php:463
+#: include/customize.php:605 include/customize.php:714
+#: include/customize.php:770 include/customize.php:933
+#: include/customize.php:1064 include/customize.php:1155
+msgid "Hover"
+msgstr ""
+
+#: include/customize.php:105 include/customize.php:117
+#: include/customize.php:127 include/customize.php:1306
+msgid "Buttons"
+msgstr ""
+
+#: include/customize.php:126 include/customize.php:284
+#: include/customize.php:340 include/customize.php:556
+#: include/customize.php:669 include/customize.php:801
+#: include/customize.php:998 include/customize.php:1130
+#, php-format
+msgid "%s Text Color"
+msgstr ""
+
+#: include/customize.php:132
+msgid "Buttons Border"
+msgstr ""
+
+#: include/customize.php:151 include/customize.php:159
+#: include/customize.php:360 include/customize.php:368
+#: include/customize.php:507 include/customize.php:515
+#: include/customize.php:722 include/customize.php:891
+#: include/customize.php:899 include/customize.php:1022
+#: include/customize.php:1030
+msgid "Background"
+msgstr ""
+
+#: include/customize.php:165 include/customize.php:374
+#: include/customize.php:407 include/customize.php:521
+#: include/customize.php:658 include/customize.php:905
+#: include/customize.php:1036 include/customize.php:1119
+msgid "Angle"
+msgstr ""
+
+#: include/customize.php:167 include/customize.php:376
+#: include/customize.php:409 include/customize.php:523
+#: include/customize.php:660 include/customize.php:907
+#: include/customize.php:1038 include/customize.php:1121
+msgid "Horizontal"
+msgstr ""
+
+#: include/customize.php:168 include/customize.php:377
+#: include/customize.php:410 include/customize.php:524
+#: include/customize.php:661 include/customize.php:908
+#: include/customize.php:1039 include/customize.php:1122
+msgid "Diagonal"
+msgstr ""
+
+#: include/customize.php:169 include/customize.php:378
+#: include/customize.php:411 include/customize.php:525
+#: include/customize.php:662 include/customize.php:909
+#: include/customize.php:1040 include/customize.php:1123
+msgid "Vertical"
+msgstr ""
+
+#: include/customize.php:177 include/customize.php:182
+#: include/customize.php:419 include/customize.php:424
+#: include/customize.php:470 include/customize.php:478
+#: include/customize.php:613 include/customize.php:618
+#: include/customize.php:941 include/customize.php:946
+#: include/customize.php:1072 include/customize.php:1077
+msgid "Text Shadow"
+msgstr ""
+
+#: include/customize.php:189 include/customize.php:196
+#: include/customize.php:1326 include/customize.php:1334
+#: include/customize.php:1663 include/customize.php:1671
+#: include/customize.php:1679
+msgid "Site Title"
+msgstr ""
+
+#: include/customize.php:205 include/customize.php:212
+#: include/customize.php:1361 include/customize.php:1369
+#: include/customize.php:1687 include/customize.php:1695
+#: include/customize.php:1703
+msgid "Site Description"
+msgstr ""
+
+#: include/customize.php:221 include/customize.php:228
+#: include/customize.php:1377 include/customize.php:1385
+#: include/customize.php:1569 include/customize.php:1577
+#: include/customize.php:3687 include/customize.php:3700
+#: include/customize.php:3709
+msgid "Phone"
+msgstr ""
+
+#: include/customize.php:263 include/customize.php:275
+#: include/customize.php:285 include/customize.php:557
+#: include/customize.php:780 include/customize.php:792
+#: include/customize.php:977 include/customize.php:989
+#: include/customize.php:999
+msgctxt "noun"
+msgid "Form Fields"
+msgstr ""
+
+#: include/customize.php:292 include/customize.php:309
+#: include/customize.php:564 include/customize.php:572
+#: include/customize.php:581
+msgctxt "noun"
+msgid "Search Button"
+msgstr ""
+
+#: include/customize.php:300
+msgid "Search Button"
+msgstr ""
+
+#: include/customize.php:308 include/customize.php:580
+#, php-format
+msgid "%s Text"
+msgstr ""
+
+#: include/customize.php:319 include/customize.php:331
+#: include/customize.php:341 include/customize.php:1767
+#: include/customize.php:1800 include/customize.php:1812
+msgctxt "noun"
+msgid "Login/Register"
+msgstr ""
+
+#: include/customize.php:352 include/customize.php:1408
+#: include/customize.php:1419 include/customize.php:1429
+#: include/customize.php:1439 include/customize.php:1880
+#: include/customize.php:1994 include/customize.php:3835
+#: include/customize.php:3842 include/customize.php:3848
+#: include/customize.php:3999 include/general.php:1012 include/general.php:1020
+#: include/general.php:1026 include/general.php:1031 include/general.php:1036
+msgid "Navigation"
+msgstr ""
+
+#: include/customize.php:388 include/customize.php:400
+#: include/customize.php:450 include/customize.php:461
+msgid "Submenu"
+msgstr ""
+
+#: include/customize.php:471 include/customize.php:479
+#: include/customize.php:1441 include/customize.php:3849
+msgid "Submenus"
+msgstr ""
+
+#: include/customize.php:490 include/customize.php:3857
+#: include/customize.php:3873 include/general.php:1044 include/general.php:1057
+#: include/general.php:1062
+msgid "Search Bar"
+msgstr ""
+
+#: include/customize.php:494
+#, php-format
+msgid ""
+"Please make sure you have the search box added to the top of the content "
+"area through %1$sCustomize &rarr; Header &rarr; Search%2$s, otherwise "
+"changes that you will make in this section cannot be previewed live like the "
+"rest of the settings."
+msgstr ""
+
+#: include/customize.php:535 include/customize.php:547
+msgctxt "noun"
+msgid "Search Fields"
+msgstr ""
+
+#: include/customize.php:680 include/customize.php:689
+#, php-format
+msgid "%s Text Shadow"
+msgstr ""
+
+#: include/customize.php:729 include/customize.php:821
+msgid "Featured Images Frame"
+msgstr ""
+
+#: include/customize.php:730 include/customize.php:1278
+#: include/customize.php:1290
+msgid "Full Content"
+msgstr ""
+
+#: include/customize.php:734 include/customize.php:826
+#, php-format
+msgid "Make sure the %1$s is enabled in %2$s"
+msgstr ""
+
+#: include/customize.php:735 include/customize.php:827 include/general.php:1682
+#: include/general.php:1684 include/general.php:1800 include/general.php:1821
+msgid "Thumbnail Frame"
+msgstr ""
+
+#: include/customize.php:742 include/customize.php:834
+msgctxt "Customize section"
+msgid "Customize"
+msgstr ""
+
+#: include/customize.php:802
+msgid "Form Fields"
+msgstr ""
+
+#: include/customize.php:813 include/customize.php:836
+#: include/customize.php:2033 include/general.php:1111 include/html.php:1010
+msgid "List Views"
+msgstr ""
+
+#: include/customize.php:822 include/customize.php:2043
+msgid "Plain List"
+msgstr ""
+
+#: include/customize.php:852 include/customize.php:865
+#: include/customize.php:2262 include/customize.php:2270
+#: include/customize.php:2572 include/customize.php:2580
+msgid "Thumbnails"
+msgstr ""
+
+#: include/customize.php:856 include/customize.php:869
+msgid "Only for the jQuery Masonry layouts."
+msgstr ""
+
+#: include/customize.php:885 include/customize.php:1016
+msgid "Transparent Background"
+msgstr ""
+
+#: include/customize.php:953 include/customize.php:1242
+msgid "Headings"
+msgstr ""
+
+#: include/customize.php:955 include/customize.php:964
+msgid "Only applies to widgets with no color scheme."
+msgstr ""
+
+#: include/customize.php:962 include/customize.php:968
+msgid "Headings Shadow"
+msgstr ""
+
+#: include/customize.php:1089 include/general.php:1548 include/general.php:1556
+#: include/general.php:1561
+msgid "WooCommerce"
+msgstr ""
+
+#: include/customize.php:1100 include/customize.php:1112
+msgid "Shopping Cart Dropdown"
+msgstr ""
+
+#: include/customize.php:1131 include/customize.php:1142
+#: include/customize.php:1153 include/customize.php:4003
+msgid "Shopping Cart"
+msgstr ""
+
+#: include/customize.php:1162 include/customize.php:1170
+msgid "Sale Badges"
+msgstr ""
+
+#: include/customize.php:1202
+msgid "Very Small"
+msgstr ""
+
+#: include/customize.php:1203
+msgid "Small"
+msgstr ""
+
+#: include/customize.php:1205
+msgid "Large"
+msgstr ""
+
+#: include/customize.php:1206
+msgid "Very Large"
+msgstr ""
+
+#: include/customize.php:1233 include/customize.php:1241
+#: include/customize.php:1251 include/customize.php:1275
+#: include/customize.php:1297 include/customize.php:1305
+#: include/customize.php:1325 include/customize.php:1360
+#: include/customize.php:1376 include/customize.php:1418
+#: include/customize.php:1438 include/customize.php:1463
+#: include/customize.php:1487 include/customize.php:1511
+#: include/customize.php:1535 include/customize.php:1568
+#, php-format
+msgid "%s Font"
+msgstr ""
+
+#: include/customize.php:1234
+msgid "Base"
+msgstr ""
+
+#: include/customize.php:1254 include/customize.php:1266
+msgid "In Lists"
+msgstr ""
+
+#: include/customize.php:1263 include/customize.php:1287
+#: include/customize.php:1333 include/customize.php:1368
+#: include/customize.php:1384 include/customize.php:1394
+#: include/customize.php:1428 include/customize.php:1475
+#: include/customize.php:1499 include/customize.php:1523
+#: include/customize.php:1547 include/customize.php:1576
+#: include/customize.php:1586
+#, php-format
+msgid "%s Font Size"
+msgstr ""
+
+#: include/customize.php:1298
+msgid "Forms"
+msgstr ""
+
+#: include/customize.php:1341
+msgid "Site Title Font Resize"
+msgstr ""
+
+#: include/customize.php:1342
+msgid "Small Screens"
+msgstr ""
+
+#: include/customize.php:1346
+#, php-format
+msgid "Automatic %s"
+msgstr ""
+
+#: include/customize.php:1347
+msgid "Font Size"
+msgstr ""
+
+#: include/customize.php:1351
+msgid "Disabled"
+msgstr ""
+
+#: include/customize.php:1352
+msgid "Dynamic"
+msgstr ""
+
+#: include/customize.php:1353
+msgid "Shrink to fit"
+msgstr ""
+
+#: include/customize.php:1395 include/customize.php:1587
+#: include/customize.php:1748 include/customize.php:1756
+#: include/customize.php:3079 include/customize.php:3087
+msgid "Social Links"
+msgstr ""
+
+#: include/customize.php:1421
+msgid "Menu Parents"
+msgstr ""
+
+#: include/customize.php:1464 include/customize.php:1476
+#: include/customize.php:1488 include/customize.php:1500
+#: include/customize.php:1512 include/customize.php:1524
+#: include/customize.php:1536 include/customize.php:1548
+msgid "Widget Title"
+msgstr ""
+
+#: include/customize.php:1642 include/customize.php:1670
+#: include/customize.php:1694 include/customize.php:1725
+#: include/customize.php:1747 include/customize.php:1796
+#: include/customize.php:1854 include/customize.php:1956
+#: include/customize.php:2093 include/customize.php:2188
+#: include/customize.php:2261 include/customize.php:2370
+#: include/customize.php:2423 include/customize.php:2499
+#: include/customize.php:2571 include/customize.php:2661
+#: include/customize.php:2677 include/customize.php:3023
+#: include/customize.php:3047 include/customize.php:3078
+#: include/customize.php:3096 include/customize.php:3969
+#: include/customize.php:4107 include/general.php:1601 include/general.php:1609
+#: include/general.php:1626 include/general.php:1635 include/general.php:1733
+#: include/general.php:1741 include/general.php:1809 include/general.php:1817
+#, php-format
+msgid "%s Animation"
+msgstr ""
+
+#: include/customize.php:1650 include/customize.php:1678
+#: include/customize.php:1702 include/customize.php:1737
+#: include/customize.php:1755 include/customize.php:1808
+#: include/customize.php:1866 include/customize.php:2101
+#: include/customize.php:2196 include/customize.php:2269
+#: include/customize.php:2382 include/customize.php:2431
+#: include/customize.php:2507 include/customize.php:2579
+#: include/customize.php:2669 include/customize.php:2685
+#: include/customize.php:3031 include/customize.php:3055
+#: include/customize.php:3086 include/customize.php:3108
+#: include/customize.php:3985 include/customize.php:4119
+#, php-format
+msgid "%s Animation Delay"
+msgstr ""
+
+#: include/customize.php:1656
+msgid "Sticky Header"
+msgstr ""
+
+#: include/customize.php:1710 include/customize.php:1993
+#: include/customize.php:2287 include/customize.php:2587
+#: include/customize.php:2730 include/customize.php:3010
+#: include/general.php:1676 include/general.php:1804
+#, php-format
+msgid "%s Alignment"
+msgstr ""
+
+#: include/customize.php:1773
+msgid "Encourage visitors to register"
+msgstr ""
+
+#: include/customize.php:1781
+#, php-format
+msgid "Custom %s Page"
+msgstr ""
+
+#: include/customize.php:1782
+msgid "Registration"
+msgstr ""
+
+#: include/customize.php:1785
+msgid "Leave empty if you do not have any registration page."
+msgstr ""
+
+#: include/customize.php:1788 include/customize.php:3167
+msgid "Examples:"
+msgstr ""
+
+#: include/customize.php:1889
+msgid "Main Navigation Menu"
+msgstr ""
+
+#: include/customize.php:1897
+msgid "Mobile Navigation Menu"
+msgstr ""
+
+#: include/customize.php:1902
+msgid "Animation on page load"
+msgstr ""
+
+#: include/customize.php:1906 include/widgets.php:158
+msgid "Animation Delay"
+msgstr ""
+
+#: include/customize.php:1910
+msgid "Dropdown Menu Separator"
+msgstr ""
+
+#: include/customize.php:1921
+msgid "Submenu Separator"
+msgstr ""
+
+#: include/customize.php:1932
+msgid "Hover Style"
+msgstr ""
+
+#: include/customize.php:1943
+msgid "Dropdown arrows"
+msgstr ""
+
+#: include/customize.php:1957 include/customize.php:1979
+msgid "Dropdown"
+msgstr ""
+
+#: include/customize.php:1978
+#, php-format
+msgid "%s Animation Speed"
+msgstr ""
+
+#: include/customize.php:1982
+msgid "Very Slow"
+msgstr ""
+
+#: include/customize.php:1983
+msgid "Slow"
+msgstr ""
+
+#: include/customize.php:1984
+msgid "Normal"
+msgstr ""
+
+#: include/customize.php:1985
+msgid "Fast"
+msgstr ""
+
+#: include/customize.php:1986
+msgid "Very Fast"
+msgstr ""
+
+#: include/customize.php:2035
+msgid ""
+"The following options apply to both \"Plain list\" and \"jQuery Masonry\" "
+"layouts."
+msgstr ""
+
+#: include/customize.php:2042 include/customize.php:2050
+#: include/customize.php:2065 include/customize.php:2078
+msgid "jQuery Masonry"
+msgstr ""
+
+#: include/customize.php:2051
+msgid "Columns"
+msgstr ""
+
+#: include/customize.php:2053
+msgid "Maximum number of columns"
+msgstr ""
+
+#: include/customize.php:2055 include/customize.php:4046
+msgid "Two"
+msgstr ""
+
+#: include/customize.php:2056 include/customize.php:4047
+msgid "Three"
+msgstr ""
+
+#: include/customize.php:2057 include/customize.php:4048
+msgid "Four"
+msgstr ""
+
+#: include/customize.php:2058 include/customize.php:4049
+msgid "Five"
+msgstr ""
+
+#: include/customize.php:2066
+msgid "Thumbnails Effect"
+msgstr ""
+
+#: include/customize.php:2070
+msgid "Zoom in"
+msgstr ""
+
+#: include/customize.php:2071
+msgid "Zoom out"
+msgstr ""
+
+#: include/customize.php:2079
+msgid "Thumbnails Style"
+msgstr ""
+
+#: include/customize.php:2094 include/customize.php:2102
+#: include/general.php:1124
+msgid "Content List"
+msgstr ""
+
+#: include/customize.php:2107
+msgid "Content List Effect"
+msgstr ""
+
+#: include/customize.php:2108
+msgid ""
+"This may not work in conjunction with some of the animations in the "
+"\"Content list animation\" above."
+msgstr ""
+
+#: include/customize.php:2111 include/customize.php:2115
+msgid "Enlarge"
+msgstr ""
+
+#: include/customize.php:2112 include/customize.php:2116
+msgid "Fade"
+msgstr ""
+
+#: include/customize.php:2141 include/customize.php:2161
+#: include/customize.php:2464
+msgid "Content Titles"
+msgstr ""
+
+#: include/customize.php:2146
+msgid "Prefer Excerpt over an automatic summary"
+msgstr ""
+
+#: include/customize.php:2169 include/customize.php:2480
+#: include/customize.php:2492 include/general.php:1613 include/general.php:1660
+#: include/general.php:1745
+msgid "Content Author"
+msgstr ""
+
+#: include/customize.php:2181
+msgid "Content Authors"
+msgstr ""
+
+#: include/customize.php:2225 include/customize.php:2238
+#: include/customize.php:2536
+msgid "Content Categories"
+msgstr ""
+
+#: include/customize.php:2246 include/customize.php:2556
+msgid "The First Category Only"
+msgstr ""
+
+#: include/customize.php:2254
+msgid "Content Thumbnails"
+msgstr ""
+
+#: include/customize.php:2275 include/customize.php:2606
+msgid "Content Thumbnail Rotate"
+msgstr ""
+
+#: include/customize.php:2276 include/customize.php:2281
+#: include/customize.php:2290 include/customize.php:2300
+msgid "Does not apply to the jQuery Masonry layout."
+msgstr ""
+
+#: include/customize.php:2280
+msgid "Content Thumbnail Frame"
+msgstr ""
+
+#: include/customize.php:2288 include/customize.php:2564
+#: include/customize.php:2588
+msgid "Content Thumbnail"
+msgstr ""
+
+#: include/customize.php:2299 include/customize.php:2598
+msgid "Content Thumbnail Size"
+msgstr ""
+
+#: include/customize.php:2311
+msgid "Content Summaries"
+msgstr ""
+
+#: include/customize.php:2361 include/general.php:1696
+msgctxt "noun"
+msgid "Edit"
+msgstr ""
+
+#: include/customize.php:2374 include/customize.php:2386
+msgctxt "noun"
+msgid "Pagination"
+msgstr ""
+
+#: include/customize.php:2414
+msgid "Full Content Views"
+msgstr ""
+
+#: include/customize.php:2415
+msgid ""
+"You can override these settings for individual contents through Posts (or "
+"Pages) &rarr; Edit &rarr; Pen Options."
+msgstr ""
+
+#: include/customize.php:2548
+msgid "Content Category"
+msgstr ""
+
+#: include/customize.php:2610
+msgid "Content Thumbnail Framed"
+msgstr ""
+
+#: include/customize.php:2662 include/customize.php:2670
+msgid "Comments"
+msgstr ""
+
+#: include/customize.php:2678 include/customize.php:2686
+msgid "Pagination"
+msgstr ""
+
+#: include/customize.php:2741
+msgid "Round corners"
+msgstr ""
+
+#: include/customize.php:2765 include/general.php:968
+msgid "Front Page"
+msgstr ""
+
+#: include/customize.php:2771
+msgid "Front Page Content"
+msgstr ""
+
+#: include/customize.php:2777
+msgid "Front Page Sidebars"
+msgstr ""
+
+#: include/customize.php:2778
+msgid ""
+"You may also use some plugins such as the \"Widget Visibility\" or "
+"\"Conditional Logic\"."
+msgstr ""
+
+#: include/customize.php:2988
+#, php-format
+msgid ""
+"You can control the visibility of the phone number and social network icons "
+"through Customize &rarr; Contact and the colors of the footer links through "
+"%1$sCustomize &rarr; Colors &rarr; Footer%2$s."
+msgstr ""
+
+#: include/customize.php:3040
+msgid "Footer Navigation"
+msgstr ""
+
+#: include/customize.php:3063
+msgid "Footer Menu Separator"
+msgstr ""
+
+#: include/customize.php:3064
+msgid "Desktop Only"
+msgstr ""
+
+#: include/customize.php:3124
+msgctxt "noun"
+msgid "Back to top"
+msgstr ""
+
+#: include/customize.php:3134
+msgid "Copyright"
+msgstr ""
+
+#: include/customize.php:3139
+msgid "Copyright Notice"
+msgstr ""
+
+#: include/customize.php:3142
+#, php-format
+msgid "The following tokens are available:%s"
+msgstr ""
+
+#: include/customize.php:3147
+#, php-format
+msgid "%s for the current year."
+msgstr ""
+
+#: include/customize.php:3152
+#, php-format
+msgid ""
+"%1$s for your site title as set in %2$sCustomize &rarr; Site Identity%3$s."
+msgstr ""
+
+#: include/customize.php:3162
+#, php-format
+msgid "%s for your site URL as set in Settings &rarr; General."
+msgstr ""
+
+#: include/customize.php:3173 include/customize.php:3179
+msgid "by"
+msgstr ""
+
+#: include/customize.php:3174 include/customize.php:3180
+#: partials/content-copyright.php:29
+msgid "All rights reserved."
+msgstr ""
+
+#: include/customize.php:3182
+msgid "(Supports limited HTML)"
+msgstr ""
+
+#: include/customize.php:3210
+msgid "Contact Information"
+msgstr ""
+
+#: include/customize.php:3219 include/customize.php:3228
+#: include/customize.php:3237 include/customize.php:3246 include/html.php:194
+#: include/html.php:198 include/html.php:844 include/html.php:850
+msgid "Twitter"
+msgstr ""
+
+#: include/customize.php:3227 include/customize.php:3263
+#: include/customize.php:3299 include/customize.php:3335
+#: include/customize.php:3371 include/customize.php:3407
+#: include/customize.php:3443 include/customize.php:3479
+#: include/customize.php:3515 include/customize.php:3551
+#: include/customize.php:3587 include/customize.php:3726
+#, php-format
+msgid "%s URL"
+msgstr ""
+
+#: include/customize.php:3236 include/customize.php:3245
+#: include/customize.php:3272 include/customize.php:3281
+#: include/customize.php:3308 include/customize.php:3317
+#: include/customize.php:3344 include/customize.php:3353
+#: include/customize.php:3380 include/customize.php:3389
+#: include/customize.php:3416 include/customize.php:3425
+#: include/customize.php:3452 include/customize.php:3461
+#: include/customize.php:3488 include/customize.php:3497
+#: include/customize.php:3524 include/customize.php:3533
+#: include/customize.php:3560 include/customize.php:3569
+#: include/customize.php:3596 include/customize.php:3605
+#: include/customize.php:3632 include/customize.php:3641
+#: include/customize.php:3668 include/customize.php:3677
+#: include/customize.php:3699 include/customize.php:3708
+#: include/customize.php:3735 include/customize.php:3744
+#: include/customize.php:3771 include/customize.php:3780
+#, php-format
+msgid "%1$s link in the %2$s"
+msgstr ""
+
+#: include/customize.php:3255 include/customize.php:3264
+#: include/customize.php:3273 include/customize.php:3282 include/html.php:110
+#: include/html.php:114 include/html.php:828 include/html.php:834
+msgid "Facebook"
+msgstr ""
+
+#: include/customize.php:3291 include/customize.php:3300
+#: include/customize.php:3309 include/customize.php:3318 include/html.php:131
+#: include/html.php:135
+msgid "Instagram"
+msgstr ""
+
+#: include/customize.php:3327 include/customize.php:3336
+#: include/customize.php:3345 include/customize.php:3354 include/html.php:152
+#: include/html.php:156
+msgid "VK"
+msgstr ""
+
+#: include/customize.php:3363 include/customize.php:3372
+#: include/customize.php:3381 include/customize.php:3390 include/html.php:173
+#: include/html.php:177
+msgid "Pinterest"
+msgstr ""
+
+#: include/customize.php:3399 include/customize.php:3408
+#: include/customize.php:3417 include/customize.php:3426 include/html.php:215
+#: include/html.php:219 include/html.php:860 include/html.php:866
+msgid "LinkedIn"
+msgstr ""
+
+#: include/customize.php:3435 include/customize.php:3444
+#: include/customize.php:3453 include/customize.php:3462 include/html.php:257
+#: include/html.php:261
+msgid "Flickr"
+msgstr ""
+
+#: include/customize.php:3471 include/customize.php:3480
+#: include/customize.php:3489 include/customize.php:3498 include/html.php:236
+#: include/html.php:240
+msgid "BitBucket"
+msgstr ""
+
+#: include/customize.php:3507 include/customize.php:3516
+#: include/customize.php:3525 include/customize.php:3534 include/html.php:278
+#: include/html.php:282
+msgid "GitHub"
+msgstr ""
+
+#: include/customize.php:3543 include/customize.php:3552
+#: include/customize.php:3561 include/customize.php:3570 include/html.php:362
+#: include/html.php:366
+msgid "Slack"
+msgstr ""
+
+#: include/customize.php:3579 include/customize.php:3588
+#: include/customize.php:3597 include/customize.php:3606 include/html.php:299
+#: include/html.php:303
+msgid "Telegram"
+msgstr ""
+
+#: include/customize.php:3615 include/customize.php:3624
+#: include/customize.php:3633 include/customize.php:3642 include/html.php:320
+#: include/html.php:324
+msgid "WhatsApp"
+msgstr ""
+
+#: include/customize.php:3651 include/customize.php:3660
+#: include/customize.php:3669 include/customize.php:3678 include/html.php:341
+#: include/html.php:345
+msgid "Skype"
+msgstr ""
+
+#: include/customize.php:3718 include/customize.php:3727
+msgid "Feed"
+msgstr ""
+
+#: include/customize.php:3736 include/customize.php:3745 include/html.php:69
+msgid "RSS"
+msgstr ""
+
+#: include/customize.php:3754 include/customize.php:3772
+#: include/customize.php:3781 include/html.php:89 include/html.php:93
+msgid "E-mail"
+msgstr ""
+
+#: include/customize.php:3760
+msgid "Your e-mail or URL to a \"Contact us\" page"
+msgstr ""
+
+#: include/customize.php:3762
+#, php-format
+msgid "%1$s or %2$s"
+msgstr ""
+
+#: include/customize.php:3807
+msgid "Background Images"
+msgstr ""
+
+#: include/customize.php:3820
+msgid "Dim the lights"
+msgstr ""
+
+#: include/customize.php:3821
+msgid "(This feature is a part of the \"Pen\" theme.)"
+msgstr ""
+
+#: include/customize.php:3861
+#, php-format
+msgid ""
+"Please make sure you have the search box added to the top of the content "
+"area through %1$sCustomize &rarr; Search%2$s so you can see your background "
+"image."
+msgstr ""
+
+#: include/customize.php:3891
+msgid "Use Featured Image As Background"
+msgstr ""
+
+#: include/customize.php:3943
+msgid "Theme Options"
+msgstr ""
+
+#: include/customize.php:3957 include/customize.php:3973
+#: include/customize.php:3989 include/plugins/woocommerce.php:439
+msgid "Cart"
+msgstr ""
+
+#: include/customize.php:4002
+#, php-format
+msgid "Include the %s"
+msgstr ""
+
+#: include/customize.php:4012 include/customize.php:4020
+msgid "Related Products"
+msgstr ""
+
+#: include/customize.php:4019 include/customize.php:4032
+#, php-format
+msgid "Number of %s"
+msgstr ""
+
+#: include/customize.php:4024 include/customize.php:4041
+#: include/customize.php:4057
+#, php-format
+msgid "Default: %s"
+msgstr ""
+
+#: include/customize.php:4033
+msgid "Columns For Related Products"
+msgstr ""
+
+#: include/customize.php:4037
+msgid ""
+"This may automatically change to provide the best appearance and user "
+"experience."
+msgstr ""
+
+#: include/customize.php:4045
+msgid "One"
+msgstr ""
+
+#: include/customize.php:4054
+msgid "Products per page"
+msgstr ""
+
+#: include/customize.php:4064
+#, php-format
+msgid ""
+"When using the jQuery Masonry layout the %1$sColumns setting%2$s for it "
+"would override this one."
+msgstr ""
+
+#: include/customize.php:4097
+msgid "Site Logo"
+msgstr ""
+
+#: include/customize.php:4108 include/customize.php:4120
+#: include/general.php:990
+msgid "Logo"
+msgstr ""
+
+#: include/customize.php:4129
+msgid "Logo Size"
+msgstr ""
+
+#: include/customize.php:4133
+msgctxt "verb"
+msgid "Limit Height"
+msgstr ""
+
+#: include/customize.php:4134
+msgctxt "verb"
+msgid "Limit Width"
+msgstr ""
+
+#: include/customize.php:4276 include/customize.php:4328
+#, php-format
+msgid "%s (Default)"
+msgstr ""
+
+#: include/customize.php:6402
+msgid "Do you need help?"
+msgstr ""
+
+#: include/customize.php:6403
+msgid "Request Support"
+msgstr ""
+
+#: include/customize.php:6404
+msgid "Install the plugin"
+msgstr ""
+
+#: include/customize.php:6405
+msgid ""
+"Enjoy a whole bunch of awesome features with the companion plugin, download "
+"and install right away."
+msgstr ""
+
+#: include/customize.php:6411
+#, php-format
+msgid "%s Theme Only:"
+msgstr ""
+
+#: include/customize.php:6415 include/widgets.php:24
+msgid ""
+"This is a part of the Pen theme so if you switch to another theme these "
+"settings will be no longer used. The rest of the settings that are here are "
+"either parts of the WordPress core or added via plugins and they are "
+"available with or without this theme."
+msgstr ""
+
+#: include/general.php:736
+#, php-format
+msgid "%d seconds"
+msgstr ""
+
+#: include/general.php:739
+msgid "1 second"
+msgstr ""
+
+#: include/general.php:909 include/general.php:935
+msgid "Current"
+msgstr ""
+
+#: include/general.php:914
+msgid "Color Schemes"
+msgstr ""
+
+#: include/general.php:933
+#, php-format
+msgid "Font Preset %d"
+msgstr ""
+
+#: include/general.php:940
+msgid "Font Presets"
+msgstr ""
+
+#: include/general.php:949 include/general.php:981 include/general.php:1019
+#: include/general.php:1051 include/general.php:1077 include/general.php:1118
+#: include/general.php:1519 include/general.php:1555 include/html.php:979
+#, php-format
+msgid "%s Settings"
+msgstr ""
+
+#: include/general.php:956 include/general.php:988 include/general.php:1027
+#: include/general.php:1058 include/general.php:1396 include/general.php:1526
+msgid "Background Image"
+msgstr ""
+
+#: include/general.php:1005 include/general.php:1541
+msgid "Contacts"
+msgstr ""
+
+#: include/general.php:1023
+msgid "Menus"
+msgstr ""
+
+#: include/general.php:1103
+#, php-format
+msgid "Edit This %s"
+msgstr ""
+
+#: include/general.php:1150 include/general.php:1170 include/general.php:1188
+#: include/general.php:1214 include/general.php:1240 include/general.php:1266
+#: include/general.php:1292 include/general.php:1318 include/general.php:1344
+#: include/general.php:1362 include/general.php:1380 include/general.php:1413
+#: include/general.php:1436 include/general.php:1459 include/general.php:1482
+#: include/general.php:1505
+msgid "Configure Widgets"
+msgstr ""
+
+#: include/general.php:1178 include/general.php:1185 include/general.php:1196
+#: include/general.php:1207 include/general.php:1222 include/general.php:1233
+#: include/general.php:1248 include/general.php:1259 include/general.php:1274
+#: include/general.php:1285 include/general.php:1300 include/general.php:1311
+#: include/general.php:1326 include/general.php:1337 include/general.php:1393
+#: include/general.php:1402 include/general.php:1410 include/general.php:1429
+#: include/general.php:1452 include/general.php:1475 include/general.php:1498
+#, php-format
+msgid "\"%s\" Widget Area"
+msgstr ""
+
+#: include/general.php:1352 include/general.php:1359 include/general.php:1370
+#: include/general.php:1377
+#, php-format
+msgid "\"%s\" Sidebar"
+msgstr ""
+
+#: include/general.php:1672 include/general.php:1795
+msgid "Featured Image As Title Background"
+msgstr ""
+
+#: include/general.php:1685 include/general.php:1822
+msgid "Thumbnail Size"
+msgstr ""
+
+#: include/general.php:1686 include/general.php:1823
+msgid "Thumbnail Rotate"
+msgstr ""
+
+#: include/general.php:1703
+msgid "Font Preset"
+msgstr ""
+
+#: include/general.php:1704
+msgid "Site Width"
+msgstr ""
+
+#: include/general.php:1964
+msgid "Maximum Width:"
+msgstr ""
+
+#: include/general.php:1974
+msgid "Cropped"
+msgstr ""
+
+#: include/html.php:65
+msgid "Subscribe the RSS"
+msgstr ""
+
+#: include/html.php:433 include/html.php:475
+msgid ""
+"This is a shortcut link for users with theme customization permission, "
+"invisible for the rest."
+msgstr ""
+
+#: include/html.php:433 partials/site-navigation.php:35
+msgid "Header Menu"
+msgstr ""
+
+#: include/html.php:449 include/html.php:490
+msgid "Create a menu?"
+msgstr ""
+
+#: include/html.php:544
+msgctxt "Separates category links."
+msgid ", "
+msgstr ""
+
+#: include/html.php:549
+msgid "Categories:"
+msgstr ""
+
+#: include/html.php:579
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: include/html.php:601
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: include/html.php:819
+msgid "Share this!"
+msgstr ""
+
+#: include/html.php:827 include/html.php:843 include/html.php:859
+#, php-format
+msgid "Share on %s"
+msgstr ""
+
+#: include/html.php:914 include/html.php:929 include/html.php:964
+msgid "You can change this by editing this post."
+msgstr ""
+
+#: include/html.php:946
+#, php-format
+msgid "(If on homepage) \"%s\""
+msgstr ""
+
+#: include/html.php:949 include/html.php:963
+msgid "Hidden"
+msgstr ""
+
+#: include/html.php:950
+msgid ""
+"You can change this through Appearance &rarr; Customize &rarr; Front page "
+"&rarr; Sidebars."
+msgstr ""
+
+#: include/html.php:960
+#, php-format
+msgid "\"%s\""
+msgstr ""
+
+#: include/html.php:992
+msgid "Title"
+msgstr ""
+
+#: include/html.php:1097
+#, php-format
+msgid "%s widget area"
+msgstr ""
+
+#: include/html.php:1122
+#, php-format
+msgid "Edit this %s"
+msgstr ""
+
+#: include/html.php:1142
+msgid "Edit defaults"
+msgstr ""
+
+#: include/html.php:1178
+#, php-format
+msgctxt "verb"
+msgid "Customize <span>%s</span>"
+msgstr ""
+
+#: include/html.php:1278
+msgid "Pages:"
+msgstr ""
+
+#: include/html.php:1314 include/html.php:1316
+msgid "My Account"
+msgstr ""
+
+#: include/html.php:1331 include/html.php:1333
+msgid "Login / Register"
+msgstr ""
+
+#: include/plugins/woocommerce.php:255
+msgid "Sale"
+msgstr ""
+
+#: include/plugins/woocommerce.php:466
+msgid "View your shopping cart."
+msgstr ""
+
+#: include/plugins/woocommerce.php:470
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include/sidebars.php:20
+msgid "Left Sidebar"
+msgstr ""
+
+#: include/sidebars.php:24
+msgid "Right Sidebar"
+msgstr ""
+
+#: include/sidebars.php:33
+msgid "(Stays in the middle of the header)"
+msgstr ""
+
+#: include/sidebars.php:41
+msgid "(Stays at the right of the header)"
+msgstr ""
+
+#: include/sidebars.php:49
+msgid "Located above the bigger search box."
+msgstr ""
+
+#: include/sidebars.php:57
+msgid "Located left side of the bigger search box."
+msgstr ""
+
+#: include/sidebars.php:65
+msgid "Located right side of the bigger search box."
+msgstr ""
+
+#: include/sidebars.php:73
+msgid "Located beneath the bigger search box."
+msgstr ""
+
+#: include/sidebars.php:77
+msgid ""
+"Located above the content area below the header and the navigation menu."
+msgstr ""
+
+#: include/sidebars.php:81
+msgid "Located beneath the content area."
+msgstr ""
+
+#: include/sidebars.php:89
+msgid "Located above the content."
+msgstr ""
+
+#: include/sidebars.php:97
+msgid "Located beneath the content."
+msgstr ""
+
+#: include/widgets.php:59
+msgid "Widget Color Scheme:"
+msgstr ""
+
+#: include/widgets.php:70
+msgid "Blue"
+msgstr ""
+
+#: include/widgets.php:73
+msgid "Orange"
+msgstr ""
+
+#: include/widgets.php:74
+msgid "Purple"
+msgstr ""
+
+#: include/widgets.php:75
+msgid "Red"
+msgstr ""
+
+#: include/widgets.php:76
+msgid "Yellow"
+msgstr ""
+
+#: include/widgets.php:114
+msgid "Widget Animation:"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:335
+msgid "Install Required Plugins"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:336
+msgid "Install Plugins"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:338
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:341
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:350
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:356
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:362
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:368
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:374
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:379
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:384
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:389
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:393
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:394
+#: install/class-tgm-plugin-activation.php:921
+#: install/class-tgm-plugin-activation.php:2647
+#: install/class-tgm-plugin-activation.php:3679
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:395
+#: install/class-tgm-plugin-activation.php:3272
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:396
+#: install/class-tgm-plugin-activation.php:3066
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:398
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:400
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:403
+msgid "Dismiss this notice"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:404
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:608
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:609
+msgid "Update Required"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:1030
+#: install/class-tgm-plugin-activation.php:1040
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:1040
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:1229
+#: install/class-tgm-plugin-activation.php:3062
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2096
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2387
+msgid "Required"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2390
+msgid "Recommended"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2406
+msgid "WordPress Repository"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2409
+msgid "External Source"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2412
+msgid "Pre-Packaged"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2429
+msgid "Not Installed"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2433
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2435
+msgid "Active"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2441
+msgid "Required Update not Available"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2444
+msgid "Requires Update"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2447
+msgid "Update recommended"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2456
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2502
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:2506
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:2510
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:2514
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: install/class-tgm-plugin-activation.php:2596
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2604
+msgid "Installed version:"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2612
+msgid "Minimum required version:"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2624
+msgid "Available version:"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2647
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2661
+msgid "Plugin"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2662
+msgid "Source"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2663
+msgid "Type"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2667
+msgid "Version"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2668
+msgid "Status"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2717
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2722
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2728
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2798
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2831
+msgid "Install"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2837
+msgid "Update"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2840
+msgid "Activate"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2871
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2873
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2914
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:2916
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3022
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3048
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3271
+msgid "Plugin activation failed."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3608
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3608
+#: install/class-tgm-plugin-activation.php:3616
+msgid "Show Details"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3608
+#: install/class-tgm-plugin-activation.php:3616
+msgid "Hide Details"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3609
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3614
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3616
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3617
+msgid "All installations have been completed."
+msgstr ""
+
+#: install/class-tgm-plugin-activation.php:3619
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: install/list.php:22
+msgid "Pen Extra Features"
+msgstr ""
+
+#: install/list.php:34 install/list.php:35
+msgid "Recommended Plugins"
+msgstr ""
+
+#: partials/content-copyright.php:18
+msgid "Y"
+msgstr ""
+
+#: partials/content-footer.php:26 partials/content-search-footer.php:26
+msgid "Tagged"
+msgstr ""
+
+#: partials/content-footer.php:41 partials/content-search-footer.php:41
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: partials/content-footer.php:58 partials/content-page.php:89
+#: partials/content-search-footer.php:60
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: partials/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: partials/content-none.php:32
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: partials/content-none.php:48
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: partials/content-none.php:56
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: search.php:23
+msgid "Search results for:"
+msgstr ""

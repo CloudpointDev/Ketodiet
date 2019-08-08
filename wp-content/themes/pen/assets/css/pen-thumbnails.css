@@ -1,0 +1,321 @@
+#main .pen_image_thumbnail {
+	position: relative;
+	z-index: 100;
+}
+#main .pen_article .mejs-container,
+#main .pen_article .gallery,
+#main .pen_article .foogallery-container {
+	margin: 0 0 1rem;
+}
+body.blog #main .pen_article .gallery-item,
+body.home #main .pen_article .gallery-item {
+	margin: 0;
+	padding: 1px;
+}
+body.blog #main .pen_article .gallery-item a,
+body.blog #main .pen_article .gallery-item div,
+body.home #main .pen_article .gallery-item a,
+body.home #main .pen_article .gallery-item div {
+	line-height: 0;
+}
+body.pen_list_masonry #pen_masonry .pen_article .pen_image_thumbnail {
+	background: #000;
+	display: block;
+	line-height: 0;
+	float: left;
+	margin: 0;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+body.pen_list_masonry.pen_drop_shadow #pen_masonry .pen_article .pen_image_thumbnail {
+	box-shadow: 0 5px 5px rgba(0,0,0,0.1) inset;
+}
+body.pen_list_masonry #pen_masonry .pen_article .pen_image_thumbnail img {
+	height: auto;
+	max-width: 100%;
+	width: 100%;
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_0 .pen_image_thumbnail:before,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_0 .pen_image_thumbnail:after {
+	background: -ms-linear-gradient(90deg,rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%);
+	background: linear-gradient(0deg,rgba(0,0,0,0) 0%,rgba(0,0,0,0.3) 100%);
+	content: '';
+	height: 5px;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: 10;
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_0 .pen_image_thumbnail:after {
+	background: -ms-linear-gradient(90deg,rgba(0,0,0,0.3) 0%,rgba(0,0,0,0) 100%);
+	background: linear-gradient(0deg,rgba(0,0,0,0.3) 0%,rgba(0,0,0,0) 100%);
+	bottom: 0;
+	top: auto;
+}
+body.pen_list_masonry.pen_list_header_hide #pen_masonry .pen_article .pen_image_thumbnail:before,
+body.pen_list_masonry #pen_masonry .pen_article.pen_list_header_hide .pen_image_thumbnail:before,
+body.pen_list_masonry.pen_list_footer_hide.pen_list_summary_hide #pen_masonry .pen_article .pen_image_thumbnail:after,
+body.pen_list_masonry #pen_masonry .pen_article.pen_list_footer_hide.pen_list_summary_hide .pen_image_thumbnail:after {
+	display: none;
+}
+body.pen_list_masonry #pen_masonry .pen_article .pen_image_thumbnail img {
+	margin: 0;
+	height: auto;
+	position: relative;
+	transition: transform .5s;
+	width: 100%;
+	z-index: 5;
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_1 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_2 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_3 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_4 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_5 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_6 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_7 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_8 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_9 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_10 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_11 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_12 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_13 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_14 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_15 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_16 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_17 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_18 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_19 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_20 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_21 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_22 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_23 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_24 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_25 .pen_image_thumbnail {
+	background: -ms-linear-gradient(180deg,#ff8800 0%,#ffd800 50%,#ff8800 100%);
+	background: linear-gradient(90deg,#ff8800 0%,#ffd800 50%,#ff8800 100%);
+	padding: 0 0 8px !important;
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_1 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_1 .pen_image_thumbnail img {
+	clip-path: polygon(0 0,100% 0,100% calc(100% - 35px),50% 100%,0 calc(100% - 35px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_2 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_2 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% calc(100% - 15px),60% calc(100% - 15px),50% 100%,40% calc(100% - 15px),0% calc(100% - 15px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_3 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_3 .pen_image_thumbnail img {
+	clip-path: polygon(0 0,100% 0,100% calc(100% - 35px),75% 100%,0 calc(100% - 35px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_4 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_4 .pen_image_thumbnail img {
+	clip-path: polygon(0 0,100% 0,100% calc(100% - 35px),25% 100%,0 calc(100% - 35px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_5 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_5 .pen_image_thumbnail img {
+	clip-path: polygon(0 0,100% 0,100% calc(100% - 25px),0% 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_6 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_6 .pen_image_thumbnail img {
+	clip-path: polygon(0 0,100% 0,100% 100%,0 calc(100% - 25px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_7 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_7 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% calc(100% - 35px),50% calc(100% - 35px),50% calc(100% - 5px),25% calc(100% - 35px),0% calc(100% - 35px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_8 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_8 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% calc(100% - 35px),75% calc(100% - 35px),50% 100%,50% calc(100% - 35px),0% calc(100% - 35px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_9 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_9 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% calc(100% - 25px),75% calc(100% - 25px),50% 100%,25% calc(100% - 25px),0% calc(100% - 25px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_10 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_10 .pen_image_thumbnail img {
+	border-radius: 0 0 100% 100% / 50px;
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_11 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_11 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% 100%,87.5% calc(100% - 10px),75% 100%,62.5% calc(100% - 10px),50% 100%,37.5% calc(100% - 10px),25% 100%,12.5% calc(100% - 10px),0 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_12 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_12 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% calc(100% - 10px),calc(100% - 20px) 100%,calc(100% - 20px) calc(100% - 10px),calc(100% - 40px) 100%,calc(100% - 40px) calc(100% - 10px),calc(100% - 60px) 100%,calc(100% - 60px) calc(100% - 10px),calc(100% - 80px) 100%,calc(100% - 80px) calc(100% - 10px),0% 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_13 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_13 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% 100%,calc(100% - 20px) calc(100% - 10px),calc(100% - 20px) 100%,calc(100% - 40px) calc(100% - 10px),calc(100% - 40px) 100%,calc(100% - 60px) calc(100% - 10px),calc(100% - 60px) 100%,calc(100% - 80px) calc(100% - 10px),calc(100% - 80px) 100%,0% calc(100% - 10px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_14 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_14 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% 100%,75% calc(100% - 20px),0% 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_15 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_15 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% 100%,25% calc(100% - 20px),0% 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_16 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_16 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% 100%,calc(100% - 15px) calc(100% - 50px),calc(100% - 30px) calc(100% - 15px),calc(100% - 50px) calc(100% - 30px),calc(100% - 65px) 100%,calc(100% - 80px) calc(100% - 15px),calc(100% - 90px) 100%,0% 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_17 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_17 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% 100%,calc(100% - 10px) 100%,calc(100% - 25px) calc(100% - 20px),calc(100% - 35px) calc(100% - 5px),calc(100% - 50px) calc(100% - 30px),calc(100% - 60px) calc(100% - 15px),calc(100% - 75px) calc(100% - 40px),0% 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_18 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_18 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% calc(100% - 20px),calc(100% - 20px) 100%,0% 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_19 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_19 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,calc(100% - 20px) 0%,100% 20px,100% 100%,0% 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_20 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_20 .pen_image_thumbnail img {
+	clip-path: polygon(0% 20px,20px 0%,100% 0%,100% 100%,0% 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_21 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_21 .pen_image_thumbnail img {
+	clip-path: polygon(0% calc( 100% - 20px ),0% 0%,100% 0%,100% 100%,20px 100%);
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_22 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_22 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% 100%,75% calc(100% - 10px),70% calc(100% - 30px),25% calc(100% - 30px),20% calc(100% - 10px),0% 100%)
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_23 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_23 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% calc(100% - 30px),75% calc(100% - 20px),70% 100%,30% 100%,25% calc(100% - 20px),0% calc(100% - 30px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_24 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_24 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% calc(100% - 20px),calc(100% - 20px) 100%,20px 100%,0% calc(100% - 20px));
+}
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_25 .pen_image_thumbnail,
+body.pen_list_masonry #pen_masonry .pen_article.pen_thumbnail_style_25 .pen_image_thumbnail img {
+	clip-path: polygon(0% 0%,100% 0%,100% 100%,calc(100% - 20px) calc(100% - 20px),20px calc(100% - 20px),0% 100%);
+}
+body.pen_list_plain #main .pen_article .pen_image_thumbnail {
+	display: inline;
+	float: right;
+}
+body.pen_content_thumbnail_right #main .pen_article .pen_image_thumbnail,
+body.pen_list_thumbnail_right #main .pen_article .pen_image_thumbnail {
+	display: inline;
+	float: right;
+	margin: 0 0 2rem 1rem;
+}
+body.pen_content_thumbnail_center #main .pen_article .pen_image_thumbnail,
+body.pen_list_thumbnail_center #main .pen_article .pen_image_thumbnail {
+	float: left;
+	margin: 0 auto 1rem;
+	text-align: center;
+	width: 100%;
+}
+body.pen_content_thumbnail_left #main .pen_article .pen_image_thumbnail,
+body.pen_list_thumbnail_left #main .pen_article .pen_image_thumbnail {
+	display: inline;
+	float: left;
+	margin: 0 2rem 1rem 0;
+}
+#main .pen_article.pen_list_thumbnail_right .pen_image_thumbnail {
+	display: inline !important;
+	float: right !important;
+	margin: 0 0 2rem 1rem !important;
+}
+#main .pen_article.pen_list_thumbnail_center .pen_image_thumbnail {
+	float: left !important;
+	margin: 0 auto 1rem !important;
+	text-align: center !important;
+	width: 100% !important;
+}
+#main .pen_article.pen_list_thumbnail_left .pen_image_thumbnail {
+	display: inline !important;
+	float: left !important;
+	margin: 0 2rem 1rem 0 !important;
+}
+body.pen_singular #main .pen_article .gallery-item img,
+body.pen_singular #main .pen_article .pen_image_thumbnail img,
+body.pen_list_plain #main .pen_article .pen_image_thumbnail img {
+	line-height: 0;
+	margin: 0;
+}
+body.pen_singular #main .pen_article .gallery-item img,
+body.pen_content_thumbnail_frame #main .pen_article .pen_image_thumbnail img,
+body.pen_list_thumbnail_frame #main .pen_article .pen_image_thumbnail img,
+#main .pen_article.pen_list_thumbnail_frame .pen_image_thumbnail img {
+	background: #fff;
+	padding: 0.5rem;
+}
+body.pen_drop_shadow.pen_singular #main .pen_article .gallery-item img,
+body.pen_drop_shadow.pen_content_thumbnail_frame #main .pen_article .pen_image_thumbnail img,
+body.pen_drop_shadow.pen_list_thumbnail_frame #main .pen_article .pen_image_thumbnail img,
+body.pen_drop_shadow #main .pen_article.pen_list_thumbnail_frame .pen_image_thumbnail img {
+	box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+body.pen_thumbnail_frame_dark.pen_singular #main .pen_article .gallery-item img,
+body.pen_thumbnail_frame_dark.pen_content_thumbnail_frame #main .pen_article .pen_image_thumbnail img,
+body.pen_thumbnail_frame_dark.pen_list_thumbnail_frame #main .pen_article .pen_image_thumbnail img,
+body.pen_thumbnail_frame_dark #main .pen_article.pen_list_thumbnail_frame .pen_image_thumbnail img {
+	background: #000;
+	padding: 0.5rem;
+}
+#main .pen_article.pen_list_thumbnail_frame_not .pen_image_thumbnail img {
+	background: transparent !important;
+	box-shadow: none !important;
+	padding: auto !important;
+}
+body.pen_content_thumbnail_rotate #main .pen_article .pen_image_thumbnail img,
+body.pen_list_thumbnail_rotate #main .pen_article .pen_image_thumbnail img,
+#main .pen_article.pen_list_thumbnail_rotate .pen_image_thumbnail img {
+	margin: -2rem 2rem 0;
+	transform: rotate(2deg);
+}
+body.pen_list_thumbnail_rotate #main article:nth-child(2n+2) .pen_image_thumbnail img {
+	transform: rotate(-2deg);
+}
+#main .pen_article.pen_list_thumbnail_rotate_not .pen_image_thumbnail img {
+	margin: auto !important;
+	transform: rotate(0deg) !important;
+}
+
+body.pen_singular #main .pen_article .gallery-item:hover img {
+	transform: rotate(2deg);
+}
+@media only screen and (min-width:728px) {
+	body.pen_singular #main .pen_article .gallery-item img {
+		transition: transform .3s;
+	}
+	body.pen_list_masonry.pen_thumbnail_zoom_in #pen_masonry article:hover .pen_image_thumbnail img,
+	body.pen_list_masonry.pen_thumbnail_zoom_out #pen_masonry .pen_article .pen_image_thumbnail img {
+		transform: scale(1.1,1.1);
+	}
+	body.pen_list_masonry.pen_thumbnail_zoom_out #pen_masonry article:hover .pen_image_thumbnail img {
+		transform: scale(1,1);
+	}
+}
+@media only screen and (min-width:728px) and (max-width:1024px) {
+	#main .pen_article .pen_image_thumbnail {
+		text-align: center;
+		width: 100%
+	}
+	#main .pen_article .pen_image_thumbnail img {
+		margin-left: 0;
+		margin-right: 0;
+	}
+}
+@media only screen and (max-width:728px) {
+	#main .pen_article .pen_image_thumbnail {
+		text-align: center;
+		width: 100%
+	}
+	#main .pen_article .pen_image_thumbnail img {
+		margin-left: 0;
+		margin-right: 0;
+	}
+	body.pen_singular #main .pen_article .gallery {
+		max-width: 100%;
+	}
+}

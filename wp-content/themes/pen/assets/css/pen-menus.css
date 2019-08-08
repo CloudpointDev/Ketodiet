@@ -1,0 +1,271 @@
+#page .pen_jump_menu {
+	font-family: Arial !important;
+	min-width: 150px;
+	position: absolute;
+	right: 10px;
+	text-align: left;
+	top: 30px;
+	z-index: 100000;
+}
+#pen_section > .pen_jump_menu {
+	top: 80px;
+}
+#page .pen_jump_menu h4 {
+	background: #333;
+	background: -ms-linear-gradient(325deg, #404040 0%, #a0a0a0 100%);
+	background: linear-gradient(125deg, #404040 0%, #a0a0a0 100%);
+	border-radius: 5px 20px 0 0;
+	color: rgba(255,255,255,0.75);
+	font-family: Arial !important;
+	font-size: 14px !important;
+	line-height: 1.5;
+	margin: 0 !important;
+	padding: 5px 40px 5px 10px;
+}
+body.pen_drop_shadow #page .pen_jump_menu h4 {
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+}
+#page .pen_jump_menu h4 span {
+	color: #fff;
+	display: block;
+	font-weight: bold;
+}
+#page .pen_jump_menu h4 span span.pen_only {
+	background: #7f7f7f;
+	border-radius: 100px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.75) inset;
+	color: #fff;
+	cursor: help;
+	display: inline-block;
+	font-size: 10px !important;
+	font-weight: bold;
+	margin: 0 5px 0 0;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+body.pen_drop_shadow #page .pen_jump_menu h4 span span.pen_only {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+#page .pen_jump_menu button.pen_toggle {
+	background: transparent !important;
+	border: 0 none !important;
+	border-radius: 0;
+	box-shadow: none;
+	cursor: pointer;
+	height: 32px;
+	line-height: 1.5;
+	opacity: 0.5;
+	position: absolute;
+	right: 0;
+	top: 0;
+	transition: opacity .3s;
+	width: 32px;
+	z-index: 1000;
+}
+#page .pen_jump_menu .pen_toggle:focus,
+#page .pen_jump_menu .pen_toggle:hover,
+#page .pen_jump_menu .pen_toggle:active,
+#page *:hover > .pen_jump_menu .pen_toggle {
+	opacity: 1;
+}
+#page .pen_jump_menu .pen_toggle:before,
+#page .pen_jump_menu .pen_toggle:after {
+	border-radius: 100px;
+	content: '';
+	height: 32px;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 32px;
+}
+#page .pen_jump_menu .pen_toggle:before {
+	background: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.05));
+	border: 2px solid #fff;
+	box-shadow: 0 0 5px rgba(0,0,0,0.5), 0 0 1px #000;
+	color: #fff;
+	content: "\f040";
+	font-family: 'FontAwesome';
+	font-size: 18px !important;
+	font-weight: normal;
+	text-align: center;
+}
+body.pen_drop_shadow #page .pen_jump_menu .pen_toggle:before {
+	text-shadow: 0 0 5px rgba(0,0,0,0.5), 0 0 1px #000;
+}
+#page .pen_jump_menu .pen_toggle:after {
+	border: 1px solid rgba(255,255,255,0.5);
+	box-shadow: 0 0 2px rgba(0,0,0,0.2), 0 0 2px rgba(0,0,0,0.2) inset;
+}
+#page *:hover > .pen_jump_menu .pen_toggle:not(.pen_expanded):after {
+	animation: pen_jump_menu_toggle 10s infinite ease-in-out;
+	display: block;
+}
+#page .pen_jump_menu .pen_toggle:not(.pen_expanded):after,
+#page *:hover > .pen_jump_menu:not(.pen_expanded):pen_menu_wrapper:hover .pen_toggle:after {
+	display: none;
+}
+@keyframes pen_jump_menu_toggle {
+	0% {
+		transform: scale(1,1);
+	}
+	5%,
+	100% {
+		opacity: 0;
+		transform: scale(2,2);
+	}
+}
+#page .pen_jump_menu .pen_toggle.pen_expanded:before {
+	background: linear-gradient(0deg, #a00, #e00) !important;
+	content: "\f00d" !important;
+}
+#page .pen_jump_menu .pen_menu_wrapper {
+	border-radius: 5px 20px 5px 5px;
+	box-shadow: 0 2px 7px rgba(0,0,0,0.5);
+}
+#page .pen_jump_menu ul {
+	list-style: none !important;
+	margin: 0 !important;
+	padding: 0 !important;
+	width: 100%;
+}
+#page .pen_jump_menu ul li,
+#page .pen_jump_menu ul a {
+	clear: both;
+	float: left;
+	width: 100%;
+}
+#page .pen_jump_menu ul a {
+	background: rgba(240,240,240,0.95);
+	border-bottom: 1px solid #ccc;
+	color: #04a !important;
+	font-family: Arial !important;
+	font-size: 12px !important;
+	font-weight: normal !important;
+	line-height: 1.3;
+	margin: 0;
+	padding: 7px 10px;
+	text-decoration: none;
+	text-shadow: none !important;
+	transition: unset !important;
+}
+#page .pen_jump_menu ul li:last-child a {
+	border: 0 none;
+	border-radius: 0 0 5px 5px;
+}
+#page .pen_jump_menu ul a:focus,
+#page .pen_jump_menu ul a:hover,
+#page .pen_jump_menu ul a:active {
+	background: rgba(0,70,170,0.95);
+	color: #fff !important;
+}
+#page .pen_jump_menu ul a span {
+	border: 0 none !important;
+	clip: rect(1px,1px,1px,1px);
+	clip: rect(1px 1px 1px 1px);
+	height: 1px !important;
+	margin: 0 !important;
+	overflow: hidden !important;
+	padding: 0 !important;
+	position: absolute !important;
+	width: 1px !important;
+}
+#page .pen_jump_menu#pen_jump_menu_color_schemes,
+#page .pen_jump_menu#pen_jump_menu_font_presets {
+	bottom: 100px;
+	left: calc(50% - 167px);
+	right: auto;
+	position: fixed;
+	top: auto;
+}
+#page .pen_jump_menu#pen_jump_menu_font_presets {
+	left: calc(50% - 100px);
+}
+#page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle:before,
+#page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle:before {
+	background: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.25));
+}
+#page .pen_jump_menu#pen_jump_menu_color_schemes .pen_toggle:before {
+	content: "\f1fc";
+}
+#page .pen_jump_menu#pen_jump_menu_font_presets .pen_toggle:before {
+	content: "\f031";
+}
+#pen_jump_menu_color_schemes li {
+	position: relative;
+}
+#pen_jump_menu_color_schemes li:before {
+	border-radius: 3px;
+	content: '';
+	left: 5px;
+	height: 14px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+	width: 14px;
+	z-index: 200;
+}
+#pen_jump_menu_color_schemes li a {
+	padding-left: 25px !important;
+	position: relative;
+	z-index: 100;
+}
+#pen_jump_menu_color_schemes li:nth-child(1):before {
+	background: -ms-linear-gradient(325deg, #00a9ff 0%, #000000 100%);
+	background: linear-gradient(125deg, #00a9ff 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(2):before {
+	background: -ms-linear-gradient(325deg, #fb7c00 0%, #000000 100%);
+	background: linear-gradient(125deg, #fb7c00 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(3):before {
+	background: -ms-linear-gradient(325deg, #00ac81 0%, #000000 100%);
+	background: linear-gradient(125deg, #00ac81 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(4):before {
+	background: -ms-linear-gradient(325deg, #4b00f2 0%, #000000 100%);
+	background: linear-gradient(125deg, #4b00f2 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(5):before {
+	background: -ms-linear-gradient(325deg, #003078 0%, #000000 100%);
+	background: linear-gradient(125deg, #003078 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(6):before {
+	background: -ms-linear-gradient(325deg, #7f447f 0%, #000000 100%);
+	background: linear-gradient(125deg, #7f447f 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(7):before {
+	background: -ms-linear-gradient(325deg, #c00000 0%, #000000 100%);
+	background: linear-gradient(125deg, #c00000 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(8):before {
+	background: -ms-linear-gradient(325deg, #df00d2 0%, #000000 100%);
+	background: linear-gradient(125deg, #df00d2 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(9):before {
+	background: -ms-linear-gradient(325deg, #8bcb00 0%, #000000 100%);
+	background: linear-gradient(125deg, #8bcb00 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(10):before {
+	background: -ms-linear-gradient(325deg, #ffd800 0%, #000000 100%);
+	background: linear-gradient(125deg, #ffd800 0%, #000000 100%);
+}
+#pen_jump_menu_color_schemes li:nth-child(11):before {
+	background: -ms-linear-gradient(325deg, #00d3cf 33%, #000000 34%, #000000 74%, #255d5b 75%);
+	background: linear-gradient(125deg, #00d3cf 33%, #000000 34%, #000000 74%, #255d5b 75%);
+}
+#pen_jump_menu_color_schemes li:nth-child(12):before {
+	background: -ms-linear-gradient(325deg, #00b7ff 33%, #000000 34%, #000000 74%, #555555 75%);
+	background: linear-gradient(125deg, #00b7ff 33%, #000000 34%, #000000 74%, #555555 75%);
+}
+#pen_jump_menu_color_schemes li:nth-child(13):before {
+	background: -ms-linear-gradient(325deg, #f07c45 33%, #000000 34%, #000000 74%, #ffffff 75%);
+	background: linear-gradient(125deg, #f07c45 33%, #000000 34%, #000000 74%, #ffffff 75%);
+}
+#pen_jump_menu_color_schemes li:nth-child(14):before {
+	background: -ms-linear-gradient(325deg, #3c97de 33%, #00050a 34%, #00050a 74%, #ffca00 75%);
+	background: linear-gradient(125deg, #3c97de 33%, #00050a 34%, #00050a 74%, #ffca00 75%);
+}
+#pen_jump_menu_color_schemes li:nth-child(15):before {
+	background: -ms-linear-gradient(325deg, #ffed00 33%, #072b5f 34%, #072b5f 74%, #1a74cc 75%);
+	background: linear-gradient(125deg, #ffed00 33%, #072b5f 34%, #072b5f 74%, #1a74cc 75%);
+}

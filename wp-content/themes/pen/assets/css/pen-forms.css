@@ -1,0 +1,130 @@
+#page label,
+#page legend {
+	font-size: 1em;
+	font-weight: bold;
+	white-space: nowrap;
+}
+#page fieldset {
+	border: 0 none;
+	margin: 0;
+	padding: 0;
+}
+#page label {
+	color: rgba(120,120,120,0.75);
+	cursor: pointer;
+	display: block;
+	margin: 0 0 0.2rem;
+}
+#page input,
+#page textarea {
+	line-height: 1.3;
+	margin: 0;
+	padding: 0.5rem !important;
+	width: 100%;
+}
+#page input[type="checkbox"] + label,
+#page input[type="radio"] + label {
+	display: inline-block;
+	margin: 0 0 0 0.5rem;
+}
+#page input[type="button"],
+#page input[type="checkbox"],
+#page input[type="radio"],
+#page input[type="reset"],
+#page input[type="submit"],
+#page label input,
+#page label textarea {
+	width: auto;
+}
+#page input::-webkit-input-placeholder {
+	text-shadow: none;
+}
+#page input::-moz-placeholder {
+	opacity: 1;
+}
+#page input:-ms-input-placeholder {
+	text-shadow: none;
+}
+#page label input,
+#page label textarea {
+	display: block;
+}
+#page label input[type="checkbox"],
+#page label input[type="radio"] {
+	display: inline-block;
+}
+#page button.hpcf_attachment_remove,
+#page input[type="button"],
+#page input[type="reset"],
+#page input[type="submit"] {
+	cursor: pointer;
+}
+#page input:focus,
+#page input:active {
+	outline: 0 none;
+}
+#page textarea {
+	min-height: 150px;
+	max-width: 100%;
+	min-width: 100%;
+}
+#page button.hpcf_attachment_remove,
+#page input[type="email"],
+#page input[type="number"],
+#page input[type="password"],
+#page input[type="tel"],
+#page input[type="text"],
+#page input[type="url"],
+#page select,
+#page textarea {
+	background: rgba(255,255,255,0.75);
+	border: 1px solid rgba(0,0,0,0.25) !important;
+	color: #333;
+	font-size: 1em;
+	text-shadow: none !important;
+	transition: background-color .3s, border-color .3s, color .3s;
+}
+#page select {
+	padding: 0.75rem 1rem;
+}
+body.pen_drop_shadow #main button.hpcf_attachment_remove,
+body.pen_drop_shadow #main input[type="email"],
+body.pen_drop_shadow #main input[type="number"],
+body.pen_drop_shadow #main input[type="password"],
+body.pen_drop_shadow #main input[type="tel"],
+body.pen_drop_shadow #main input[type="text"],
+body.pen_drop_shadow #main input[type="url"],
+body.pen_drop_shadow #main select,
+body.pen_drop_shadow #main textarea {
+	box-shadow: 1px 1px 5px rgba(0,0,0,0.2) inset;
+}
+#page button:focus,
+#page button:active,
+#page input:focus,
+#page input:active,
+#page select:focus,
+#page select:active,
+#page textarea:focus,
+#page textarea:active {
+	outline: 0 none;
+	text-decoration: none;
+}
+body.pen_round_corners #page button,
+body.pen_round_corners #page input,
+body.pen_round_corners #page select,
+body.pen_round_corners #page textarea {
+	border-radius: 5px;
+}
+
+@media only screen and (min-width:1024px) and (max-width:1024px) {
+	#page label,
+	#page legend {
+		white-space: normal;
+	}
+}
+@media only screen and (max-width:728px) {
+	#page label,
+	#page legend {
+		white-space: normal;
+	}
+}
