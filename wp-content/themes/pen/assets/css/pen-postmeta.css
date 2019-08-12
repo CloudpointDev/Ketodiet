@@ -1,0 +1,146 @@
+html.no-js #pen_postmeta {
+	margin: 1rem 0 0;
+}
+#pen_postmeta,
+#pen_postmeta .pen_postmeta_options,
+#pen_postmeta .pen_postmeta_container,
+#pen_meta_box_footer {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	float: left;
+	width: 100%;
+}
+#pen_postmeta .postbox {
+	margin: 0 0 5px;
+}
+#pen_postmeta .postbox:last-child {
+	margin: 0;
+}
+#pen_postmeta .pen_postmeta_container {
+	padding: 1rem;
+}
+#pen_postmeta h3 {
+	background: #e0e0e0;
+	background: -ms-linear-gradient(325deg, #f0f0f0 0%, #e0e0e0 100%);
+	background: linear-gradient(125deg, #f0f0f0 0%, #e0e0e0 100%);
+	margin: 0;
+	padding: 15px;
+	position: relative;
+}
+body.js #pen_postmeta h3 { /* On WP backend <body> gets the .js class, not the <html> element. */
+	cursor: pointer;
+}
+#pen_postmeta h3 .handlediv {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+#pen_postmeta fieldset {
+	border-top: 1px solid #ddd;
+	margin: 0 0 0.5rem;
+	padding: 0 0 0.5rem;
+}
+#pen_postmeta fieldset:last-child {
+	margin: 0;
+}
+#pen_postmeta fieldset legend {
+	background: #eee;
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	font-weight: bold;
+	margin: 0;
+	padding: 0.5rem 1rem 0.5rem 1.5rem;
+	position: relative;
+}
+#pen_postmeta fieldset legend:before {
+	color: #aaa;
+	content: "\f139";
+	font-family: 'dashicons';
+	font-size: 1.5em;
+	left: 0;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-50%);
+}
+#pen_postmeta label {
+	font-weight: bold;
+	line-height: 1;
+	white-space: nowrap;
+}
+#pen_postmeta label + select {
+	margin: 5px 0 0;
+}
+#pen_postmeta .pen_postmeta_wrapper {
+	background: rgba(255,255,255,0.75);
+	border: 1px solid #fff;
+	border-radius: 5px;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	float: left;
+	margin: 5px 2% 0 0;
+	min-width: 170px;
+	padding: 7px 10px;
+	transition: background-color .1s, border-color .1s, color .1s;
+	width: 18%;
+}
+#pen_postmeta .pen_sidebars .pen_postmeta_wrapper {
+	width: 31.33%;
+}
+#side-sortables #pen_postmeta .pen_postmeta_wrapper,
+#side-sortables #pen_postmeta .pen_sidebars .pen_postmeta_wrapper {
+	margin-left: 0;
+	margin-right: 0;
+	width: 100%;
+}
+#pen_postmeta .pen_postmeta_wrapper.pen_postmeta_enable {
+	background: #dcf3df;
+	border: 1px solid #89d291;
+	color: #005d0c;
+}
+#pen_postmeta .pen_postmeta_wrapper.pen_postmeta_disable {
+	background: #ffe3e3;
+	border: 1px solid #e4aaaa;
+	color: #c30000;
+}
+#pen_meta_box .pen_only {
+	background: #7f7f7f;
+	border-radius: 100px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.75) inset;
+	color: #fff;
+	cursor: help;
+	display: inline-block;
+	font-size: 0.857em;
+	font-weight: bold;
+	margin: 0 5px 0 0;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+#pen_meta_box_footer {
+	border-top: 1px solid #ccc;
+	margin: 1rem 0 0;
+	padding: 1rem 0 0;
+	text-align: right;
+}
+#pen_meta_box_footer label {
+	vertical-align: baseline;
+}
+#pen_meta_box_footer .pen_left {
+	float: left;
+}
+#pen_meta_box_footer .pen_right {
+	float: right;
+}
+#pen_meta_box_footer .pen_order:after {
+	content: "\f344";
+	font-family: 'dashicons';
+	margin: 0 0 0 1rem;
+	vertical-align: bottom;
+}
+@media only screen and (max-width:1024px) {
+	#pen_postmeta .pen_sidebars .pen_postmeta_wrapper {
+		width: 100%;
+	}
+}

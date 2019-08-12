@@ -1,0 +1,30 @@
+#primary .pen_article table {
+	background: rgba(255,255,255,0.025);
+	border-collapse: collapse;
+}
+#primary .pen_article table caption {
+	font-weight: bold;
+	padding: 1rem 0;
+	text-align: left;
+}
+#primary .pen_article table th,
+#primary .pen_article table td {
+	background: rgba(255,255,255,0.05);
+	border: 1px solid rgba(170,170,170,0.1);
+	cursor: default;
+	padding: 0.5rem 1rem;
+}
+#primary .pen_article table th {
+	background: rgba(255,255,255,0.025);
+	font-weight: bold;
+	text-align: left;
+}
+#primary .pen_article table tr:nth-child(2n+1) td {
+	background: rgba(255,255,255,0.05);
+}
+#primary .pen_article table a {
+	display: block;
+}
+#primary .pen_article table p a {
+	display: inline-block;
+}

@@ -1,0 +1,154 @@
+#main .pen_share {
+	float: right;
+	margin: 2rem 0 0 1rem;
+	position: relative;
+}
+#main .pen_share ul,
+#main .pen_share li {
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+#main .pen_share li {
+	border: 0.5em solid transparent;
+	float: left;
+	height: 3em !important;
+	line-height: 1;
+	margin: -0.5rem 0 !important;
+	width: 3em !important;
+}
+#main .pen_share li a.pen_button {
+	border: 0 none !important;
+	float: left;
+	margin: 0 !important;
+	max-height: 100%;
+	max-width: 100%;
+	padding: 0.5rem !important;
+	width: 100% !important;
+}
+body.pen_round_corners #main .pen_share li a.pen_button {
+	border-radius: 5px;
+}
+#main .pen_share li a.pen_button span {
+	border: 0 none !important;
+	clip: rect(1px,1px,1px,1px);
+	clip: rect(1px 1px 1px 1px);
+	height: 1px !important;
+	margin: 0 !important;
+	overflow: hidden !important;
+	padding: 0 !important;
+	position: absolute !important;
+	width: 1px !important;
+}
+#main .pen_share li a.pen_button {
+	margin: 0;
+}
+#main .pen_share li a:before {
+	font-family: 'FontAwesome';
+	font-weight: normal;
+}
+#main .pen_share li.pen_facebook a:before {
+	content: "\f09a";
+}
+#main .pen_share li.pen_twitter a:before {
+	content: "\f099";
+}
+#main .pen_share li.pen_linkedin a:before {
+	content: "\f08c";
+}
+body.pen_content_header_center #main .pen_article header .pen_share {
+	float: none;
+	text-align: center;
+	width: 100%;
+}
+body.pen_content_header_center #main .pen_article header .pen_share ul {
+	display: inline-block;
+	float: none;
+	margin: 0 auto;
+	width: auto;
+	white-space: nowrap;
+}
+body.pen_content_header_center #main .pen_article header div.pen_share ul li {
+	padding: 1rem 0 0;
+	width: 33.33%;
+}
+body.pen_content_header_center #main .pen_article header div.pen_share ul li,
+body.pen_content_header_center #main .pen_article header div.pen_share ul li a {
+	display: inline-block;
+	float: none;
+}
+#main .pen_article header div.pen_share ul li a {
+	color: #fff !important;
+	width: 38px !important;
+}
+body.pen_round_corners #main .pen_article header div.pen_share ul li a {
+	border-radius: 50%;
+}
+@media only screen and (min-width:728px) {
+	#main .pen_share h4 {
+		border: 0 none !important;
+		clip: rect(1px,1px,1px,1px);
+		clip: rect(1px 1px 1px 1px);
+		height: 1px !important;
+		margin: 0 !important;
+		overflow: hidden !important;
+		padding: 0 !important;
+		position: absolute !important;
+		width: 1px !important;
+	}
+	#main .pen_article header .pen_share {
+		float: right;
+	}
+	#main .pen_content .pen_share h4,
+	#main .pen_content .pen_share ul {
+		float: left;
+		width: auto;
+	}
+	#main .pen_content .pen_share h4 {
+		line-height: 1.8;
+		margin: 0 1rem 0 0;
+		padding: 0;
+		opacity: 0;
+		transition: opacity .3s;
+	}
+	#main .pen_content .pen_share:hover h4 {
+		opacity: 1;
+	}
+	#main .pen_share li {
+		transition: opacity .3s;
+	}
+	#main .pen_share ul:hover li {
+		opacity: 0.5;
+	}
+	#main .pen_share ul li:hover {
+		opacity: 1;
+	}
+	#main .pen_content_footer .pen_share {
+		clear: both;
+	}
+	#main .pen_content_footer .pen_share a {
+		width: 100% !important;
+	}
+}
+@media only screen and (max-width:728px) {
+	#main .pen_share {
+		width: 100%;
+	}
+	#main .pen_share h4 {
+		margin-top: 0;
+	}
+	#main .pen_share ul {
+		text-align: center;
+	}
+	#main .pen_share li {
+		display: inline-block;
+		float: none;
+	}
+	#main .pen_share li {
+		display: block;
+		float: left;
+	}
+
+}
