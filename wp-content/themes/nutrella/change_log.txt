@@ -1,0 +1,15 @@
+Version 1.0
+i) Intial version Release.
+
+Version 1.1
+i) Resolved theme URI error, few bugs and changed readme file.
+
+Version 1.1.1
+i) Added proper escape functions and made few corrections.
+
+Version 1.1.2
+i) Added images url and add some functions.
+
+Version 1.1.3
+i) Removed few errors from the customizer file.
+
