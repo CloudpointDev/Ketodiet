@@ -1,0 +1,306 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	-webkit-text-stroke-width:0px;
+	-webkit-font-smoothing: antialiased;
+}
+embed {
+	max-width: 100%;
+}
+em {
+	font-style: italic;
+}
+strong, b {
+	font-weight: bold;
+}
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+p:has(> script) {
+	margin: 0 !important;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, h1 a:visited, h2 a:visited, h3 a:visited, h4 a:visited, h5 a:visited, h6 a:visited  { 
+	font-weight: inherit; 
+	color: inherit;
+}
+div {
+    border-style: solid;
+}
+a {
+	text-decoration: none;
+}
+* p:last-child {
+	margin-bottom: 0;
+}
+.tabset .tabs li a p, .tabset .tabs li p  {margin: 0!important;}
+.toggle .toggle-title p, .accordion .accordion-title p  {margin: 0!important;}
+.accordion .accordion-title span .icon {color: inherit;}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+code, kbd, tt {
+  font-family: Monaco, "Andale Mono", "Courier New", Courier, monospace;
+}
+var {
+	font-style: italic;
+}
+pre {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #ededed;
+  overflow: auto;
+  padding: 2em;
+  line-height: 2em;
+  font-size: 12px;
+  background-image: -webkit-linear-gradient(rgba(0, 0, 0, .05) 50%, transparent 50%, transparent);
+  background-image: -moz-linear-gradient(rgba(0, 0, 0, .05) 50%, transparent 50%, transparent);
+  background-image: -ms-linear-gradient(rgba(0, 0, 0, .05) 50%, transparent 50%, transparent);
+  background-image: -o-linear-gradient(rgba(0, 0, 0, .05) 50%, transparent 50%, transparent);
+  background-image: linear-gradient(rgba(0, 0, 0, .05) 50%, transparent 50%, transparent);
+  -webkit-background-size: 100% 4em;
+  -moz-background-size: 100% 4em;
+  background-size: 100% 4em;
+  font-family: Monaco, "Andale Mono", "Courier New", Courier, monospace;
+  -webkit-transition: all ease-in-out 0.5s;
+  -moz-transition: all ease-in-out 0.5s;
+  -o-transition: all ease-in-out 0.5s;
+  transition: all ease-in-out 0.5s;
+  margin-bottom: 30px;
+  position: relative;
+  left: 0;
+  text-transform: none;
+}
+pre * {
+	font-size: 12px !important;
+	line-height: 2em !important;
+	margin-bottom: 0 !important;
+}
+address {
+	margin-bottom: 20px;
+}
+body {
+	line-height: 1;
+}
+ul,
+ol { margin-bottom: 20px }
+
+ul { list-style: none outside }
+
+ol,
+ul { margin-left: 0px }
+
+ol { list-style: decimal outside; margin-left: 17px;}
+
+ul { 
+    list-style: disc inside; 
+}
+ul li, ol li {
+    padding: 5px 0;
+}
+ul ul, ul ol, ol ol, ol ul {
+  margin: 4px 0 5px 15px;
+}
+ul li, ol li {
+    position: relative;
+}
+ul.unstyled,
+ol.unstyled {
+	list-style: none;
+	padding: 0;
+	margin: 0 !important;
+}
+ul.unstyled li,
+ol.unstyled li {
+	padding: 0;
+	margin: 0;
+}
+.list-style-none {
+	list-style: none;
+}
+blockquote{
+	quotes: none;
+}
+blockquote:before, blockquote:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* ------------------------------------------------------------------------ */
+/* Basic WordPress WYSIWYG Editor Styles
+/* ------------------------------------------------------------------------ */
+
+.entry-content img {
+	margin: 0 0 20px 0;
+}
+	
+.alignleft, img.alignleft {
+	margin-right: 20px !important;
+	display: inline;
+	float: left;
+}
+.textleft {
+	text-align: left;
+}	
+.textright {
+	text-align: right;
+}
+.textcenter {
+	text-align: center;
+}
+.alignright, img.alignright {
+	margin-left: 20px !important;
+	display: inline;
+	float: right;
+}
+	
+.aligncenter, img.aligncenter {
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+	clear: both;
+	text-align: center;
+}
+	
+.alignnone, img.alignnone {
+	float: none;
+}
+.wp-caption {
+	text-align: center;
+	max-width: 100%;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background: #f6f6f6;
+	border: 1px solid #e8e8e8;
+	margin: 0 auto 20px;
+}
+
+.wp-caption img {
+	border: 0 none;
+	padding: 5px;
+	margin: 0;
+	width: 100%;
+}
+
+.wp-caption p.wp-caption-text {
+	width: auto !important;
+	padding:3px 0;
+	margin: 0px 0 0 0;
+	
+	display: block; 
+}
+
+.wp-smiley {
+	margin: 0 !important;
+	max-height: 1em;
+}
+
+blockquote.left {
+	margin-right: 20px;
+	text-align: right;
+	margin-left: 0;
+	width: 33%;
+	float: left;
+}
+
+blockquote.right {
+	margin-left: 20px;
+	text-align: left;
+	margin-right: 0;
+	width: 33%;
+	float: right;
+}
+
+.size-full,
+.size-large,
+.size-medium,
+.size-thumbnail {
+	max-width: 100%;
+	width: auto 9;
+	height: auto;
+	vertical-align: middle;
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+}
+
+.sticky,.bypostauthor {
+	font-family: inherit;
+	font-size: inherit;
+}
+
+img {
+	max-width: 100%;
+	width: auto 9;
+	height: auto;
+	vertical-align: middle;
+	border: 0;
+	-ms-interpolation-mode: bicubic;
+}
+.shortcode-map img {
+	max-width: inherit;
+}
+/* Table */
+/* #Table
+================================================== */
+table {
+	margin: 0 0 20px 0;
+	text-align: left;
+	border: 1px solid;
+	width: 100%;
+}
+thead th{
+	font-weight:bold;
+	text-transform: uppercase;
+	background-color: #f7f7f7;
+}
+
+th,
+td {
+	padding: 10px 20px;
+	vertical-align: middle;
+	border: 1px solid #ededed;
+}
+/* FIT VIDS STYLE */
+.fluid-width-video-wrapper { 
+	width: 100%; 
+	position: relative; 
+	padding: 0; 
+} 
+.fluid-width-video-wrapper iframe, 
+.fluid-width-video-wrapper object, 
+.fluid-width-video-wrapper embed { 
+	position: absolute; top: 0; 
+	left: 0; 
+	width: 100%; 
+	height: 100%; 
+}
+input {
+	outline: none;
+	box-shadow: none;
+}
+/* ------------------------------------------------------------------------ */
+/* EOF
+/* ------------------------------------------------------------------------ */
