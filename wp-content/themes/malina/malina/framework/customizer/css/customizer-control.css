@@ -1,0 +1,39 @@
+ul.my-multicheck-sortable-list .my-multicheck-sortable-handle{
+	float: right;
+	cursor: move;
+}
+ul.my-multicheck-sortable-list li{
+	padding: 7px;
+	border: 1px solid #e5e5e5;
+	background: #fafafa;
+}
+.my-hideme{
+	display: none !important;
+}
+.asw-image-select {
+	display: inline-block;
+	width: 25%;
+	height: auto;
+	float: left;
+	padding: 0 10px 0px 0;
+	margin-bottom: 5px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.asw-image-select img {
+	width: 100%;
+	height: auto;
+	border-radius: 2px;
+	border: 1px solid #d8d8d8;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.asw-image-select:hover img,
+.asw-image-select.asw-active img {
+	border-color: #0074a2;
+}
+.asw-image-select input {
+	display: none;
+}

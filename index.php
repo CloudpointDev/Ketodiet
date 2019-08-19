@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php get_header(); ?>
 
 <?php 
@@ -373,3 +374,22 @@ if( get_theme_mod('malina_home_hero_slider', 'none' ) == 'slider') {
 </div>
 
 <?php get_footer(); ?>
+=======
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define( 'WP_USE_THEMES', true );
+
+/** Loads the WordPress Environment and Template */
+require( dirname( __FILE__ ) . '/wp-blog-header.php' );
+>>>>>>> 97e98cbebb7a3bae01769a740fded75010240069

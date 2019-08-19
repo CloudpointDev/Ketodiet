@@ -1,0 +1,2255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Malina 1.0\n"
+"POT-Creation-Date: 2019-05-09 20:41+0200\n"
+"PO-Revision-Date: 2019-05-09 20:41+0200\n"
+"Last-Translator: \n"
+"Language-Team: ArtstudioWorks\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: _e;__;_x;_n;esc_html__;esc_html_e;esc_attr_e;"
+"esc_attr__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:9
+msgid "Oops"
+msgstr ""
+
+#: ../404.php:10
+msgid "We don't have the page you are looking for"
+msgstr ""
+
+#: ../404.php:11
+msgid "Return to home page"
+msgstr ""
+
+#: ../archive.php:136 ../archive.php:175 ../archive.php:209 ../archive.php:226
+#: ../archive.php:260 ../archive.php:293 ../archive.php:327 ../index.php:132
+#: ../index.php:173 ../index.php:207 ../index.php:224 ../index.php:258
+#: ../index.php:291 ../index.php:325 ../search.php:126 ../search.php:165
+#: ../search.php:199 ../search.php:216 ../search.php:250 ../search.php:283
+#: ../search.php:317 ../templates/blog/herosection.php:93
+#: ../templates/blog/slider.php:174 ../templates/page/herosection.php:110
+#: ../templates/page/slider.php:174
+msgid "Permalink to"
+msgstr ""
+
+#: ../archive.php:158 ../index.php:154 ../search.php:148
+#: ../templates/blog/slider.php:179 ../templates/page/slider.php:179
+msgid "Read more"
+msgstr ""
+
+#: ../archive.php:353 ../index.php:353 ../search.php:345
+msgid "Load More"
+msgstr ""
+
+#: ../archive.php:363 ../index.php:363 ../search.php:357
+msgid "Not Found"
+msgstr ""
+
+#: ../comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:11
+msgid "Comments "
+msgstr ""
+
+#: ../comments.php:21
+msgid "Trackbacks &amp; Pingbacks"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Previous"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Next"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:53
+msgid "Leave a reply"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Add a Comment"
+msgstr ""
+
+#: ../comments.php:60
+msgid "Post comment"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:83
+#: ../framework/customizer/customizer.php:112
+msgid "-- No select --"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:138
+msgid "Select font family"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:139
+msgid "Select font styling"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:330
+msgid "Thin"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:331
+msgid "Extra-Light"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:332
+msgid "Light"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:333
+msgid "Regular"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:334
+msgid "Medium"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:335
+msgid "Semi-Bold"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:336
+msgid "Bold"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:337
+msgid "Extra-Bold"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:338
+msgid "Black"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:359
+msgid "From highest to lowest"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:360
+msgid "From lowest to highest"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:363
+msgid "Last modified date"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:364
+msgid "Popularity"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:365
+msgid "Title"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:366
+msgid "Random"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:367
+msgid "Date"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:368
+msgid "Preserve post ID order"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:372
+#: ../framework/customizer/customizer.php:2128
+msgid "Show"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:373
+#: ../framework/customizer/customizer.php:2129
+msgid "Hide"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:377
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:378
+msgid "Options for theme customizing"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:384
+msgid "General"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:401
+msgid "Page loading animation"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:417
+msgid "Enable smooth scroll"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:433
+msgid "Enable live search."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:434
+msgid "Enable ajax search in header search form."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:450
+msgid "Comments cookies opt-in checkbox label"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:451
+msgid "This is checkbox label in comment form"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:468
+msgid "Seo settings"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:469
+msgid "Check to disable inbuilt SEO"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:485
+msgid "Meta Keywords"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:486
+msgid "Add relevant keywords separated with commas to improve SEO."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:502
+msgid "Meta Description"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:503
+msgid "Enter a short description of the website for SEO."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:520
+msgid "Responsive Layout"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:521
+msgid "Check to enable responsiveness on your site."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:537
+msgid "Zoom on mobile devices"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:538
+msgid ""
+"Check to enable zoom on mobile devices. It will disable responsiveness on "
+"mobiles."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:554
+msgid "Back to top button"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:555
+msgid "Check to enable {back to top} button."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:573
+msgid "Images crop settings"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:591
+msgid "Crop thumbnail"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:592
+msgid "Check to enable cropping for thumbnail image size (160x160)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:608
+msgid "Crop medium"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:609
+msgid "Check to enable cropping for medium image size (570x410)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:625
+msgid "Crop large"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:626
+msgid "Check to enable cropping for large image size (1170x730)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:642
+msgid "Crop post-thumbnail"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:643
+msgid "Check to enable cropping for post-thumbnail image size (845x550)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:659
+msgid "Crop malina-extra-medium"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:660
+msgid "Check to enable cropping for malina-extra-medium image size (520x410)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:676
+msgid "Crop malina-slider"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:677
+msgid "Check to enable cropping for malina-slider image size (1170x605)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:693
+msgid "Crop malina-fullwidth-slider"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:694
+msgid ""
+"Check to enable cropping for malina-fullwidth-slider image size (1900x650)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:710
+msgid "Add your google map api key to use it."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:711
+msgid "Register your api key here https://cloud.google.com/maps-platform/"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:719
+msgid "Search Page"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:736
+msgid "Search page layout"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:739
+#: ../framework/customizer/customizer.php:978
+#: ../framework/customizer/customizer.php:1252
+msgid "Grid"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:740
+#: ../framework/customizer/customizer.php:979
+#: ../framework/customizer/customizer.php:1253
+msgid "Featured"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:741
+#: ../framework/customizer/customizer.php:980
+#: ../framework/customizer/customizer.php:1254
+msgid "Featured even/odd"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:742
+#: ../framework/customizer/customizer.php:981
+#: ../framework/customizer/customizer.php:1255
+msgid "Masonry"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:743
+#: ../framework/customizer/customizer.php:982
+#: ../framework/customizer/customizer.php:1256
+msgid "List"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:759
+msgid "Search page posts count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:760
+msgid "Enter posts count for search page."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:776
+#: ../framework/customizer/customizer.php:1015
+#: ../framework/customizer/customizer.php:1272
+msgid "Layout columns count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:777
+#: ../framework/customizer/customizer.php:1016
+#: ../framework/customizer/customizer.php:1273
+msgid "Select columns count for \"Grid\", \"Masonry\" layouts"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:780
+#: ../framework/customizer/customizer.php:1019
+#: ../framework/customizer/customizer.php:1276
+msgid "Two columns"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:781
+#: ../framework/customizer/customizer.php:1020
+#: ../framework/customizer/customizer.php:1277
+msgid "Three columns"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:782
+#: ../framework/customizer/customizer.php:1021
+#: ../framework/customizer/customizer.php:1278
+msgid "Four columns"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:783
+#: ../framework/customizer/customizer.php:1022
+#: ../framework/customizer/customizer.php:1279
+msgid "Six columns"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:799
+#: ../framework/customizer/customizer.php:1055
+#: ../framework/customizer/customizer.php:1333
+#: ../framework/customizer/customizer.php:2161
+msgid "Show post likes count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:815
+#: ../framework/customizer/customizer.php:1071
+#: ../framework/customizer/customizer.php:1349
+#: ../framework/customizer/customizer.php:2177
+msgid "Show post views count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:831
+#: ../framework/customizer/customizer.php:1087
+#: ../framework/customizer/customizer.php:1365
+msgid "Show post comments count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:847
+#: ../framework/customizer/customizer.php:1103
+#: ../framework/customizer/customizer.php:1397
+msgid "Show post date label"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:863
+#: ../framework/customizer/customizer.php:1119
+#: ../framework/customizer/customizer.php:1413
+#: ../framework/customizer/customizer.php:2193
+msgid "Show estimate time to read post"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:879
+msgid "Search page pagination"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:882
+#: ../framework/customizer/customizer.php:1138
+#: ../framework/customizer/customizer.php:1464
+msgid "Standard pagination"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:883
+#: ../framework/customizer/customizer.php:1139
+#: ../framework/customizer/customizer.php:1465
+msgid "Ajax Load More"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:899
+msgid "Search excerpt count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:900
+msgid "Enter excerpt count for search page."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:917
+msgid "Search page sidebar"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:918
+msgid "Select sidebar position on search page, or disable it."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:944
+#: ../framework/customizer/customizer.php:1200
+#: ../framework/customizer/customizer.php:1509
+msgid "Sidebar sticky"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:945
+#: ../framework/customizer/customizer.php:1201
+#: ../framework/customizer/customizer.php:1510
+msgid "Select sidebar sticky on scroll or not."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:948
+#: ../framework/customizer/customizer.php:1204
+#: ../framework/customizer/customizer.php:1513
+msgid "Sticky"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:949
+#: ../framework/customizer/customizer.php:1205
+#: ../framework/customizer/customizer.php:1514
+msgid "Scrolled"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:958
+msgid "Archive Category/Tag Page"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:975
+msgid "Archive page layout"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:998
+msgid "Category page posts count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:999
+msgid "Enter posts count for category/tag page."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1038
+msgid "Archive post humbnail size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1135
+msgid "Archive Posts pagination type"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1155
+msgid "Category excerpt count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1156
+msgid "Enter excerpt count for category/tag page."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1173
+msgid "Archive page sidebar"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1174
+msgid "Select sidebar position on archive page, or disable it."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1213
+msgid "Blog"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1231
+msgid "Blog page style"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1249
+msgid "Blog layout"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1295
+msgid "Select elements alignment"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1298
+msgid "Left"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1299
+msgid "Center"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1300
+msgid "Right"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1316
+msgid "Posts thumbnail size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1381
+msgid "Show post categories"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1429
+msgid "Ignore featured posts?"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1445
+msgid "Ignore sticky posts?"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1461
+msgid "Posts pagination type"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1482
+msgid "Blog page sidebar"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1483
+msgid "Select sidebar position on blog page, or disable it."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1530
+msgid "Post format on preview"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1531
+msgid ""
+"Check this if you need to display featured image on preview instead of post "
+"format (video, gallery, audio, etc.). It will overwrite option globally."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1547
+msgid "Blog excerpt count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1548
+msgid "Enter excerpt count for blog page."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1564
+msgid "Blog Hero Section"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1567
+msgid "Slider"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1568
+msgid "Fullwidth image + carousel"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1569
+#: ../framework/customizer/customizer.php:2593
+#: ../framework/customizer/customizer.php:2764
+#: ../framework/customizer/customizer.php:3459
+#: ../framework/customizer/customizer.php:3593
+#: ../framework/customizer/customizer.php:3739
+#: ../framework/customizer/customizer.php:4227
+#: ../framework/customizer/customizer.php:4339
+msgid "None"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1586
+msgid "Hero section settings"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1605
+msgid "Blog Hero Image"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1623
+msgid "Hero section top padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1639
+msgid "Hero section right padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1655
+msgid "Hero section bottom padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1671
+msgid "Hero section left padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1687
+msgid "Blog hero section carousel items count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1688
+msgid "Enter items count for hero section posts carousel on blog page."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1704
+msgid "Hero section text"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1705
+msgid "Enter your hero section text."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1725
+msgid "Carousel posts IDs"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1726
+#: ../framework/customizer/customizer.php:1820
+msgid "Select posts to show."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1745
+msgid "Order posts by:"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1762
+msgid "Order"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1763
+msgid "Designates the ascending or descending order"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1781
+msgid "Blog slider settings"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1799
+msgid "Blog page slider slides count"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1800
+msgid "Enter slides count for home page slider."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1819
+msgid "Slider posts IDs"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1839
+msgid "Order items by:"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1856
+msgid "Slideshow"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1857
+msgid "Check to enable autoplay."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1873
+msgid "Loop"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1874
+msgid "Check to enable loop."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1890
+msgid "Slider layout"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1893
+msgid "Centered"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1894
+msgid "Two Centered"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1895
+msgid "Simple"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1896
+msgid "Two in row"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1897
+#: ../framework/customizer/customizer.php:3205
+msgid "Three per row"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1913
+msgid "Slider width"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1916
+#: ../framework/customizer/customizer.php:2041
+msgid "Fullwidth"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1917
+msgid "Container"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1933
+msgid "Slider item overlay"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1950
+msgid "Slider show date"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1967
+msgid "Slider show readmore"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1983
+msgid "Slider meta categories"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:1999
+msgid "Slider height"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2000
+msgid "Enter slider height in (px)"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2017
+msgid "Single post view"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2035
+msgid "Single post layout"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2036
+msgid ""
+"Select your single post layout by default. Also, you can select \"single "
+"post layout\" for specific post."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2039
+msgid "Standard"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2040
+msgid "Wide"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2042
+msgid "Fullwidth Alt"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2043
+msgid "Fullwidth Alt 2"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2044
+msgid "Side"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2061
+msgid "Single post sidebar"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2062
+msgid "Select sidebar position on single post view, or disable it."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2088
+msgid "Select title block position"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2091
+msgid "Above featured image"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2092
+msgid "Under Featured image"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2108
+msgid "Display date in title block?"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2124
+msgid "Related posts block"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2125
+msgid "Select show or hide related posts."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2145
+msgid "Sticky vertical sharebox"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2209
+msgid "Show sharebox in meta"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2225
+msgid "Author info"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2241
+msgid "Posts navigation"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2257
+msgid "Disable comments"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2258
+msgid "Check to disable comments on single post view"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2266
+msgid "Header"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2284
+msgid "Header style"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2285
+msgid "Select header style."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2315
+msgid "Fixed Header"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2316
+msgid "Check to fix your header at the top of the page."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2332
+#: ../framework/customizer/customizer.php:2336
+msgid "Strech header"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2335
+msgid "Do not strech"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2353
+msgid "Header Background Image"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2371
+#: ../framework/customizer/customizer.php:3056
+msgid "Background size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2374
+#: ../framework/customizer/customizer.php:3059
+msgid "Auto"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2375
+#: ../framework/customizer/customizer.php:3060
+msgid "Cover"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2376
+#: ../framework/customizer/customizer.php:3061
+msgid "Contain"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2393
+msgid "Header background color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2412
+msgid "Header background color opacity"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2429
+msgid "Header bottom border width"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2430
+#: ../framework/customizer/customizer.php:2466
+msgid "Use this field to set border width. Do not set (px)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2447
+msgid "Header bottom border color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2465
+msgid "Header top border width"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2483
+msgid "Header top border color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2502
+msgid "Logo Image"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2520
+#: ../framework/customizer/customizer.php:3403
+msgid "Logo size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2521
+#: ../framework/customizer/customizer.php:2667
+msgid ""
+"Use this field to set image width or for text font size. Do not set (px)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2537
+#: ../framework/customizer/customizer.php:2727
+#: ../framework/customizer/customizer.php:3556
+#: ../framework/customizer/customizer.php:3702
+msgid "font family"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2555
+msgid "Logo text color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2573
+msgid "Logo font weight"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2590
+msgid "Logo text transform"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2594
+#: ../framework/customizer/customizer.php:2765
+#: ../framework/customizer/customizer.php:3460
+#: ../framework/customizer/customizer.php:3594
+#: ../framework/customizer/customizer.php:3740
+#: ../framework/customizer/customizer.php:4228
+#: ../framework/customizer/customizer.php:4340
+msgid "Capitalize"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2595
+#: ../framework/customizer/customizer.php:2766
+#: ../framework/customizer/customizer.php:3461
+#: ../framework/customizer/customizer.php:3595
+#: ../framework/customizer/customizer.php:3741
+#: ../framework/customizer/customizer.php:4229
+#: ../framework/customizer/customizer.php:4341
+msgid "Uppercase"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2611
+msgid "Logo title letter-spacing"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2629
+msgid "Mobile logo"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2648
+msgid "Mobile Logo Image"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2666
+msgid "Mobile Logo size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2685
+msgid "Navigation Settings"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2709
+#: ../framework/customizer/customizer.php:3522
+#: ../framework/customizer/customizer.php:3668
+msgid "font size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2744
+#: ../framework/customizer/customizer.php:3477
+#: ../framework/customizer/customizer.php:3539
+#: ../framework/customizer/customizer.php:3685
+msgid "font weight"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2761
+msgid "Menu text transform"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2783
+#: ../framework/customizer/customizer.php:3612
+msgid "items color (initial)"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2802
+msgid "items color (hover, active)"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2821
+msgid "Space between items"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2822
+msgid "Space between menu items."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2840
+msgid "Disable dots"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2841
+msgid "Check to disable dots between menu items."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2859
+msgid "Dropdown menu background color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2877
+msgid "Dropdown menu background opacity"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2895
+msgid "Dropdown menu items border"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2915
+msgid "Header elements"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2933
+msgid "Search button"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2934
+msgid "Check to enable search button in header."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2951
+#: ../framework/customizer/customizer.php:3223
+#: ../framework/customizer/customizer.php:3785
+msgid "Socials"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2952
+msgid "Check to enable socials in header."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2970
+msgid "Header socials icons color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2990
+msgid "Shopping cart icon"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2991
+msgid "Check to enable shopping cart icon."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:2999
+msgid "Footer"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3016
+msgid "Footer layout"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3019
+msgid "Fullwidth layout"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3020
+msgid "Container layout"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3038
+msgid "Footer Background Image"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3077
+msgid "Background position"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3080
+msgid "Center Top"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3081
+msgid "Center Center"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3082
+msgid "Center Bottom"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3099
+msgid "Footer background color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3117
+msgid "Footer top padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3118
+#: ../framework/customizer/customizer.php:3135
+msgid "Do not set (px)."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3134
+msgid "Footer bottom padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3152
+msgid "Instagram title"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3168
+msgid "Instagram access token"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3169
+msgid ""
+"If you want to show instagram in footer area, please input access token."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3169
+msgid "Get access token"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3185
+msgid "Instagram items count, max count is 20 items"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3201
+msgid "Instagram items count per row"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3204
+msgid "Two per row"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3206
+msgid "Four per row"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3207
+msgid "Six per row"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3224
+msgid "Check to enable socials in footer."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3241
+msgid "Socials color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3261
+msgid "Copyright Section settings"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3279
+msgid "Footer copyright section border"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3280
+msgid "Check to enable border for copyright footer section."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3296
+msgid "Copyright text"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3297
+msgid "Add copyright text to footer area."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3313
+msgid "Copyright text font size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3330
+msgid "Copyright text font family"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3348
+msgid "Copyright text color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3367
+msgid "Footer logo"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3368
+msgid "Check to enable logo in copyright footer section."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3385
+msgid "Footer Logo Image"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3404
+msgid "Logo width for image or font size for text logo. Do not set (px)"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3420
+msgid "Footer Logo font family"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3438
+msgid "Footer text logo color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3456
+msgid "Footer logo text transform"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3486
+msgid "Headings"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3504
+msgid "Posts headings"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3573
+msgid "Post title letter-spacing"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3590
+msgid "Title text transform"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3631
+msgid "items color (hover)"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3650
+msgid "Widgets headings"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3719
+msgid "Widget title letter-spacing"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3736
+msgid "Widget title text transform"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3758
+msgid "color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3776
+msgid "Widget heading separator"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3777
+msgid "Check to enable heading separator line."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3786
+msgid ""
+"Add your social links, otherwise leave blank if you need not some links."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3803
+msgid "Show Facebook in share box."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3819
+msgid "Show Twitter in share box."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3835
+msgid "Show whatsapp in share box."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3851
+msgid "Show Pinterest in share box."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3867
+msgid "Show Linkedin in share box."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3883
+msgid "Show Google+ in share box."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3899
+msgid "Show Email in share box."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3918
+msgid " url"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3935
+msgid "Skype account"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3951
+msgid "Show rss"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3959
+msgid "Styling"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3977
+msgid "Theme main color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:3995
+msgid "Body font size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4012
+msgid "Body text line height"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4029
+msgid "Body font family"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4047
+msgid "Body text color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4073
+msgid "Body top padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4090
+msgid "Body right padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4107
+msgid "Body bottom padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4124
+msgid "Body left padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4134
+msgid "Links color (initial)"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4153
+msgid "Links color (hover)"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4172
+msgid "Meta Categories styling"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4190
+msgid "Meta categories font size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4207
+msgid "Meta categories font family"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4224
+msgid "Meta ctegories text transform"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4246
+msgid "Meta categories color initial"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4265
+msgid "Meta categories color hover"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4284
+msgid "Meta Info (likes, views, etc.) styling"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4302
+msgid "Meta font size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4319
+msgid "Meta info font family"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4336
+msgid "Meta info text transform"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4358
+msgid "Meta info color initial"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4377
+msgid "Buttons styling"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4395
+msgid "Button font size"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4412
+msgid "Button font family"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4429
+msgid "Default button letter spacing"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4446
+msgid "Default button font weight"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4464
+msgid "Button default background color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4483
+msgid "Button default text color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4502
+msgid "Button default border color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4521
+msgid "Default button border radius"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4539
+msgid "Default button top/bottom padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4557
+msgid "Default button left/right padding"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4576
+msgid "Button loadmore background color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4595
+msgid "Button loadmore border color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4615
+msgid "Button loadmore text color"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4625
+msgid "Google fonts ext."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4626
+msgid "Select google fonts extensions to load. It allows to reduce load speed."
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4644
+msgid "Languages subset"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4646
+msgid "Latin"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4647
+msgid "Cyrillic"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4648
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4649
+msgid "Greek"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4650
+msgid "Greek Extended"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4651
+msgid "Latin Extended"
+msgstr ""
+
+#: ../framework/customizer/customizer.php:4652
+msgid "Vietnamese"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:335 ../functions.php:579
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../framework/inc/class-tgm-plugin-activation.php:337 ../functions.php:580
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: ../framework/inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:340 ../functions.php:581
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:392 ../functions.php:582
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:393
+#: ../framework/inc/class-tgm-plugin-activation.php:912
+#: ../framework/inc/class-tgm-plugin-activation.php:2618
+#: ../framework/inc/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:394
+#: ../framework/inc/class-tgm-plugin-activation.php:3244 ../functions.php:583
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:395
+#: ../framework/inc/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../framework/inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../framework/inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: ../framework/inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1019
+#: ../framework/inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#. translators: %s: version number
+#: ../framework/inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: ../framework/inc/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../framework/inc/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../framework/inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: ../framework/inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../framework/inc/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../framework/inc/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: ../framework/inc/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../framework/inc/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: ../framework/inc/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../framework/inc/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: ../framework/inc/class-tgm-plugin-activation.php:3594
+#: ../framework/inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../framework/inc/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/inc/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: ../framework/inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:88
+#: ../framework/inc/sidebar-generator.php:104
+msgid "Ajax error. Cannot add sidebar"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:118
+msgid "Sidebar already exists, please use a different name."
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:142
+#: ../framework/inc/sidebar-generator.php:210
+msgid "Remove"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:166
+msgid "Sidebar does not exist."
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:187
+msgid "Are you sure you want to remove"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:187
+msgid "?\\nThis will remove any widgets you have assigned to this sidebar."
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:196
+msgid "Sidebar Name:"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:202
+msgid "Sidebar Generator"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:204
+msgid ""
+"You can generate as many sidebars as you need. Then you can place them on "
+"any page you wish."
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:208 ../functions.php:441
+msgid "Name"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:209
+msgid "CSS class"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:223
+msgid "Remove this sidebar"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:223
+msgid "remove"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:231
+msgid "No Sidebars defined"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:239
+msgid "Add a sidebar"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:239
+msgid "Create Sidebar"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:284
+msgid "Click to toggle"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:284
+msgid "Sidebars"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:290
+msgid ""
+"Select the sidebar you wish to display on this page. If you don't want to "
+"display a Sidebar, select the 'Full-Width' Template."
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:292
+msgid "Note"
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:292
+msgid "You must first create the sidebar under Appearance > Sidebars."
+msgstr ""
+
+#: ../framework/inc/sidebar-generator.php:301
+msgid "WP Default Sidebar"
+msgstr ""
+
+#: ../framework/inc/sidebars.php:17
+msgid "Blog Widgets"
+msgstr ""
+
+#: ../framework/inc/sidebars.php:19
+msgid "These are widgets for the Blog sidebar."
+msgstr ""
+
+#: ../framework/inc/sidebars.php:29
+msgid "Hidden Area Widgets"
+msgstr ""
+
+#: ../framework/inc/sidebars.php:31
+msgid ""
+"These are widgets for hidden area. To show it you need to click button in "
+"header."
+msgstr ""
+
+#: ../framework/inc/sidebars.php:41
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../framework/inc/sidebars.php:43
+msgid "These are widgets for footer section."
+msgstr ""
+
+#: ../functions.php:163
+msgid "Main Navigation"
+msgstr ""
+
+#: ../functions.php:164
+msgid "Side Header Navigation"
+msgstr ""
+
+#: ../functions.php:165
+msgid "Mobile menu navigation"
+msgstr ""
+
+#: ../functions.php:218 ../functions.php:284
+msgid "malina-masonry"
+msgstr ""
+
+#: ../functions.php:221 ../functions.php:285
+msgid "malina-extra-medium"
+msgstr ""
+
+#: ../functions.php:224 ../functions.php:286
+msgid "malina-slider"
+msgstr ""
+
+#: ../functions.php:227 ../functions.php:287
+msgid "malina-fullwidth-slider"
+msgstr ""
+
+#: ../functions.php:283
+msgid "post-thumbnail"
+msgstr ""
+
+#: ../functions.php:343
+msgid "No Comments"
+msgstr ""
+
+#: ../functions.php:345
+msgid "Comments"
+msgstr ""
+
+#: ../functions.php:347
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions.php:351
+msgid "Comments disabled."
+msgstr ""
+
+#: ../functions.php:442
+msgid "E-Mail"
+msgstr ""
+
+#: ../functions.php:463 ../templates/posts/biography.php:15
+msgid "author photo"
+msgstr ""
+
+#: ../functions.php:470
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:472
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: ../functions.php:472
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:479
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:524
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../functions.php:529
+msgid "Meta Box"
+msgstr ""
+
+#: ../functions.php:534
+msgid "WP Mega Menu"
+msgstr ""
+
+#: ../functions.php:539
+msgid "Kadence Blocks"
+msgstr ""
+
+#: ../functions.php:544
+msgid "One Click Demo Import"
+msgstr ""
+
+#: ../functions.php:549
+msgid "Malina elements"
+msgstr ""
+
+#: ../functions.php:558
+msgid "Gutenberg"
+msgstr ""
+
+#: ../functions.php:578
+msgid "Install Required and Recommended Plugins"
+msgstr ""
+
+#: ../functions.php:584
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions.php:795
+msgid "back"
+msgstr ""
+
+#: ../functions.php:1235
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: ../functions.php:1277
+msgid "View all results"
+msgstr ""
+
+#: ../functions.php:1312
+msgid "< 1 min read"
+msgstr ""
+
+#: ../functions.php:1314
+msgid "1 min read"
+msgstr ""
+
+#: ../functions.php:1316
+msgid "mins read"
+msgstr ""
+
+#: ../functions.php:1383
+msgid "Material and Care"
+msgstr ""
+
+#: ../search.php:360
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../searchform.php:2 ../searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: ../templates/headers/header-version1.php:8
+#: ../templates/headers/header-version4.php:8
+#: ../templates/headers/header-version5.php:9
+#: ../templates/headers/header-version6.php:8
+#: ../templates/headers/header-version7.php:8
+#: ../templates/headers/mobile-header.php:7
+msgid "Search..."
+msgstr ""
+
+#: ../templates/posts/post-navigation.php:14
+msgid "Previous post"
+msgstr ""
+
+#: ../templates/posts/post-navigation.php:25
+msgid "Next post"
+msgstr ""
+
+#: ../templates/posts/related-posts.php:22
+msgid "Related posts"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:50
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:65
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:70
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:76 ../woocommerce/global/quantity-input.php:28
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:94
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:105
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:124
+msgid "Coupon:"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:124
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:124
+msgid "Apply coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:129
+msgid "Update cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:131
+msgid "Continue shopping"
+msgstr ""
+
+#. translators: %s: Quantity.
+#: ../woocommerce/global/quantity-input.php:28
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: ../woocommerce/single-product/product-image.php:46
+msgid "Awaiting product image"
+msgstr ""
