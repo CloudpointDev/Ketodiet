@@ -1,0 +1,32 @@
+a:4:{s:8:"template";s:6:"malina";s:4:"mods";a:82:{i:0;b:0;s:18:"nav_menu_locations";a:2:{s:15:"main_navigation";i:11;s:17:"mobile_navigation";i:12;}s:18:"custom_css_post_id";i:300;s:36:"malina_footer_instagram_access_token";s:52:"11133760657.1677ed0.5ba4466ff07c496b9a619206f2922293";s:20:"malina_footer_layout";s:8:"layout-1";s:23:"malina_home_hero_slider";s:6:"slider";s:28:"malina_footer_instagram_pics";s:1:"6";s:36:"malina_footer_instagram_pics_per_row";s:1:"6";s:29:"malina_footer_instagram_title";s:13:"@MADRID_STYLE";s:22:"malina_footer_bg_color";s:7:"#ffffff";s:25:"malina_footer_top_padding";s:2:"45";s:28:"malina_footer_bottom_padding";s:2:"90";s:30:"malina_footer_copyright_border";s:1:"1";s:23:"malina_footer_copyright";s:21:"&copy; Copyright 2019";s:22:"malina_social_facebook";s:1:"#";s:21:"malina_social_twitter";s:1:"#";s:23:"malina_social_instagram";s:1:"#";s:23:"malina_social_pinterest";s:1:"#";s:18:"malina_footer_logo";s:1:"1";s:29:"malina_footer_copyright_color";s:7:"#000000";s:23:"malina_footer_logo_size";s:2:"40";s:30:"malina_footer_logo_font_family";s:11:"Nunito Sans";s:30:"malina_footer_logo_font_weight";s:3:"800";s:30:"malina_google_font_nunito-sans";s:7:"400,800";s:33:"malina_google_font_dancing-script";s:3:"400";s:21:"malina_body_font_size";s:4:"16px";s:23:"malina_body_font_family";s:11:"Nunito Sans";s:33:"malina_posts_headings_font_family";s:11:"Nunito Sans";s:36:"malina_posts_headings_letter_spacing";s:1:"0";s:33:"malina_posts_headings_font_weight";s:3:"800";s:29:"malina_google_font_montserrat";s:7:"400,700";s:32:"malina_meta_categories_font_size";s:4:"11px";s:34:"malina_meta_categories_font_family";s:10:"Montserrat";s:32:"malina_meta_categories_transform";s:9:"uppercase";s:28:"malina_meta_categories_color";s:7:"#76797a";s:34:"malina_meta_categories_color_hover";s:7:"#000000";s:35:"malina_widgets_headings_font_weight";s:3:"700";s:24:"malina_display_post_date";s:0:"";s:22:"malina_blog_hero_image";s:98:"http://localhost/kendall/madrid/wp-content/uploads/sites/3/2019/01/bloom-blossom-dried-1077620.jpg";s:22:"malina_home_hero_posts";a:3:{i:0;s:2:"51";i:1;s:2:"53";i:2;s:2:"49";}s:28:"malina_home_slider_show_date";s:0:"";s:27:"malina_home_slider_readmore";s:1:"1";s:24:"malina_home_slider_posts";a:3:{i:0;s:2:"51";i:1;s:2:"49";i:2;s:1:"1";}s:25:"malina_home_slider_height";s:3:"635";s:21:"malina_header_variant";s:15:"header-version7";s:27:"malina_header_socials_color";s:7:"#000000";s:18:"malina_header_grid";s:26:"container header-fullwidth";s:23:"malina_media_logo_width";s:2:"60";s:23:"malina_logo_font_family";s:11:"Nunito Sans";s:23:"malina_logo_font_weight";s:3:"800";s:21:"malina_logo_transform";s:9:"uppercase";s:32:"malina_logo_title_letter_spacing";s:1:"1";s:33:"malina_widgets_headings_transform";s:9:"uppercase";s:30:"malina_post_headings_transform";s:10:"capitalize";s:25:"malina_button_font_weight";s:3:"700";s:35:"malina_button_loadmore_border_color";s:7:"#1c1d1f";s:33:"malina_button_loadmore_text_color";s:7:"#1c1d1f";s:17:"malina_blog_style";s:7:"style_4";s:26:"malina_blog_thumbnail_size";s:14:"malina-masonry";s:30:"malina_display_post_pagination";s:4:"true";s:23:"malina_body_line_height";s:4:"30px";s:17:"malina_body_color";s:7:"#666666";s:19:"malina_accent_color";s:7:"#1c1d1f";s:27:"malina_button_border_radius";s:2:"24";s:25:"malina_single_post_layout";s:14:"fullwidth-alt2";s:26:"malina_single_post_sidebar";s:4:"none";s:30:"malina_button_default_bg_color";s:7:"#222222";s:34:"malina_button_default_border_color";s:7:"#222222";s:33:"malina_header_bottom_border_width";s:1:"0";s:28:"malina_single_post_meta_date";s:0:"";s:30:"malina_single_post_author_info";s:1:"1";s:29:"malina_single_post_navigation";s:0:"";s:35:"malina_display_featured_img_preview";s:1:"1";s:30:"malina_single_post_title_block";s:5:"under";s:18:"malina_links_color";s:7:"#2c2e30";s:24:"malina_links_color_hover";s:7:"#b7b7b7";s:39:"malina_posts_headings_item_color_active";s:7:"#000000";s:20:"malina_archive_style";s:7:"style_4";s:29:"malina_archive_thumbnail_size";s:14:"malina-masonry";s:32:"malina_display_post_date_archive";s:0:"";s:38:"malina_display_post_pagination_archive";s:4:"true";s:28:"malina_archive_excerpt_count";s:2:"26";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:626:"body.single-post .post-content {
+	font-size:18px;
+}
+body.single-post.post-layout-fullwidth #content.span12 {
+	max-width:735px;
+}
+body.single-post.post-layout-wide #page-wrap-blog {
+	padding-top:0;
+}
+.post-excerpt a {
+    color: inherit;
+    text-decoration: underline;
+}
+.post-excerpt a:hover {
+	text-decoration:none;
+}
+.author-title h2 {
+	font-size:18px;
+	font-weight:800;
+}
+.comment .author-title {
+	font-weight:800;
+}
+.social-icons li a:hover {
+	color:#ffffff;
+}
+.post-slider-item .post-more .meta-categories a:hover, .post-slider-item .post-more h3 a:hover {
+    color: #ffffff;
+}
+.meta-categories {
+	letter-spacing:1px;
+}";}

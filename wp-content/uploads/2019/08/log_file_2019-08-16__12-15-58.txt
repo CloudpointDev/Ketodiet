@@ -1,0 +1,123 @@
+
+---Downloaded files---
+The import files for: Main Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/Ketodiet-master
+Data file = C:\xampp\htdocs\Ketodiet-master/wp-content/themes/malina/malina/framework/demos/maindemo/demo.xml
+Widget file = C:\xampp\htdocs\Ketodiet-master/wp-content/themes/malina/malina/framework/demos/maindemo/widgets.wie
+Customizer file = C:\xampp\htdocs\Ketodiet-master/wp-content/themes/malina/malina/framework/demos/maindemo/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "1098840" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Widgets : 
+
+Custom HTML - Location - Imported
+malina-AboutMe - About Me - Imported
+malina-BannerSpot - Banner spot - Imported
+malina-Instagram - Instagram Widget - Imported
+malina-Subscribe - Subscribe - Imported
+Categories - Categories - Imported
+malina-Slider Posts - Trending - Imported
+
+Hidden Area Widgets : 
+
+Custom HTML - No Title - Imported
+malina-Subscribe - Subscribe - Imported
+malina-Recent Posts - Latest posts - Imported
+malina-Socials - No Title - Imported
+
+WP Mega Menu Widgets : 
+
+malina-Mega Menu Posts - No Title - Imported
+malina-Mega Menu Posts - No Title - Imported
+
+AboutMe : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Location - Imported to Inactive
+malina-BannerSpot - Banner spot - Imported to Inactive
+malina-Instagram - Instagram - Imported to Inactive
+malina-Subscribe - Subscribe - Imported to Inactive
+
+ContactMe : Sidebar does not exist in theme (moving widget to Inactive)
+
+Custom HTML - Location - Imported to Inactive
+malina-AboutMe - About Me - Imported to Inactive
+malina-BannerSpot - Banner spot - Imported to Inactive
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+

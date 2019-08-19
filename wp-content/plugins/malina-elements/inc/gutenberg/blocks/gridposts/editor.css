@@ -1,0 +1,85 @@
+.post-img > a {
+    display: block;
+    position: relative;
+    -webkit-transition: 0.4s ease-in-out;
+    -ms-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+    transition: 0.4s ease-in-out;
+    -webkit-backface-visibility: hidden;
+}
+.post-img a img {
+    -webkit-backface-visibility: hidden;
+    opacity: 1;
+    position: relative;
+    margin-bottom: -1px;
+    -webkit-transition: 0.4s ease-in-out;
+    -ms-transition: 0.4s ease-in-out;
+    -moz-transition: 0.4s ease-in-out;
+    -o-transition: 0.4s ease-in-out;
+    transition: 0.4s ease-in-out;
+}
+#latest-posts .blog-posts .post .post-img, #latest-posts .blog-posts .post blockquote, #latest-posts .blog-posts .post .video-container, #latest-posts .blog-posts .post .iframe-container, #latest-posts .blog-posts .post .audio-block, #latest-posts .blog-posts .post div[class*=preview-post-gallery] {
+    margin-bottom: 0 !important;
+    display: block;
+}
+.post-img-block {
+    position: relative;
+    margin-bottom: 25px;
+    min-height: 40px;
+    padding-top: 14px;
+}
+#latest-posts .post, body.blog .post {
+    margin-bottom: 50px;
+}
+.label-date {
+    width: 64px;
+    border: 2px solid;
+    color: #fff;
+    background-color: #363438;
+    padding: 12px 5px;
+    text-align: center;
+    font-family: "Montserrat";
+    z-index: 9;
+    position: absolute;
+    top: -14px;
+    left: 20px;
+}
+.post-img-block .label-date {
+    top: 0;
+}
+.label-date span.day {
+    font-size: 20px;
+    line-height: 1em;
+    font-weight: 500;
+    margin-bottom: 7px;
+}
+.label-date span.month {
+    font-size: 11px;
+    line-height: 1em;
+    text-transform: uppercase;
+}
+.label-date span {
+    display: block;
+}
+#latest-posts .blog-posts .post-content-container > div:last-child {
+    margin-bottom: 0;
+}
+.meta-categories {
+    text-transform: none;
+    font-size: 18px;
+    color: #ce8460;
+    font-weight: 400;
+    font-family: "Dancing Script";
+    margin-bottom: 16px;
+    text-align: center;
+    line-height: 1.2em;
+}
+#latest-posts .meta-categories, #latest-posts .meta-date, #latest-posts header.title {
+    text-align: inherit;
+}
+.meta-categories a {
+    color: inherit;
+    display: inline-block;
+    position: relative;
+}

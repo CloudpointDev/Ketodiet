@@ -1,0 +1,61 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Specified file failed upload test.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/Ketodiet-master
+Data file = C:\xampp\htdocs\Ketodiet-master/wp-content/uploads/2019/08/demo.xml
+Widget file = C:\xampp\htdocs\Ketodiet-master/wp-content/uploads/2019/08/widgets.wie
+Customizer file = C:\xampp\htdocs\Ketodiet-master/wp-content/uploads/2019/08/customizer.dat
+Redux files:
+not defined!
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Widgets : 
+
+Custom HTML - Location - Widget already exists
+malina-AboutMe - About Me - Widget already exists
+malina-BannerSpot - Banner spot - Widget already exists
+malina-Instagram - Instagram Widget - Widget already exists
+malina-Subscribe - Subscribe - Widget already exists
+Categories - Categories - Widget already exists
+malina-Slider Posts - Trending - Widget already exists
+
+Hidden Area Widgets : 
+
+Custom HTML - No Title - Widget already exists
+malina-Subscribe - Subscribe - Widget already exists
+malina-Recent Posts - Latest posts - Widget already exists
+malina-Socials - No Title - Widget already exists
+
+WP Mega Menu Widgets : 
+
+malina-Mega Menu Posts - No Title - Widget already exists
+malina-Mega Menu Posts - No Title - Widget already exists
+
+AboutMe : 
+
+Custom HTML - Location - Imported
+malina-BannerSpot - Banner spot - Imported
+malina-Instagram - Instagram - Imported
+malina-Subscribe - Subscribe - Imported
+
+ContactMe : 
+
+Custom HTML - Location - Imported
+malina-AboutMe - About Me - Imported
+malina-BannerSpot - Banner spot - Imported
+
+
+
+---Importing customizer settings---
+Error: The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme.
+
+---pt-ocdi/after_import---
+
